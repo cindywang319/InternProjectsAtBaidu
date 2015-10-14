@@ -1,1 +1,1 @@
-# VisualizationToolForBaidu
+# Three independent projects done at Baidu

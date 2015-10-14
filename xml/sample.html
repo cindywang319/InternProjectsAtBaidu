@@ -1,0 +1,118 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="css/xml.css" />
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+<style type="text/css">
+div, a
+{ 
+	display: block;
+	border: 2px solid lightgrey;
+	//color: lightgrey;
+	padding: 5px;
+	margin: 15px;
+}
+</style>
+
+</head>
+
+<body>
+	<h4>点击以下灰色框，对应的xpath数据会打入下面的文本框中</h4>
+	<div id="tpl-youxi">div
+		<div>
+			div_1
+		</div>
+		<div>
+			div_2
+			<div>
+				div_2_1
+			</div>
+			<a>a</a>
+			<div>
+				div_2_2
+			</div>
+		</div>
+	</div>
+	<br>
+	<br>
+	<p>
+		<textarea rows="10" cols="70" id="mytext"><attr key="" type="" desc="" value="" from="" to="" /></textarea> <br>
+		<input type="submit" id="submit-copy" value="按Ctrl-C复制" onClick="mySelect()">
+		<input type="submit" value="提交" onClick="generatorEnter()">
+	</p>
+
+	<script type="text/javascript">
+		var html;
+
+		function mySelect() {
+			document.getElementById("mytext").select(); // 选择对象
+			// document.execCommand("Copy"); // 执行浏览器复制命令
+			// alert("已复制好，可贴粘。");
+		}
+
+		function generatorEnter() {
+			window.open("http://cubefe.baidu.com/~wangxinyi/xml/codeGenerator.php");
+		}
+
+		function clickHandler(cur_node) {
+			var xpath = findLabels(cur_node);
+			renderText(xpath);
+		}
+
+		function findLabels(cur_node) {
+			var labels = [], par_node = [], xpath;	//清空数组
+			var cur_xpath_label = cur_node[0].nodeName + getIndex(cur_node);
+			labels.unshift(cur_xpath_label);
+			par_node = cur_node.parentsUntil("#tpl-youxi");
+
+			for (var i = 0; i < par_node.length; i++) {
+				cur_xpath_label = par_node[i].nodeName + getIndex(par_node);
+				labels.unshift(cur_xpath_label);
+			};
+			xpath = labels.join('-');
+			return xpath;
+		}
+
+		function getIndex(cur_node) {
+			var index = cur_node.index();
+			var type = cur_node[0].nodeName;
+			var pre_node = cur_node.prev();
+			for (var i = 0; i < pre_node.length; i++) {
+				if(type != pre_node[i].nodeName) {
+					index = index - 1;
+				}
+			};
+
+			if(index == -1 || index == 0) index = "";
+			else index = (index + 1).toString();
+			return index;
+		}
+
+		function renderText(xpath) {
+			html = $('#mytext')[0].value;
+			var sub_index = html.indexOf("value=") + 7;
+			var html_head, html_tail;
+			if(sub_index >= 0) {
+				html_head = html.substr(0, sub_index);
+				html_tail = html.substr(sub_index);
+			}
+			xpath = xpath + ':;';
+			html = html_head + xpath + html_tail;
+			html = html.toLowerCase();
+			$('#mytext')[0].value = html;
+		}
+
+		$("div").bind("click",function(){
+			clickHandler($(this));
+			return false;
+		});
+
+		$("a").bind("click",function(){
+			clickHandler($(this));
+			return false;
+		});
+
+	</script>
+
+
+</html>

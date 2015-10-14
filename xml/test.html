@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="css/xml.css" />
+<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+<script language = "javascript" type = "text/javascript">
+            var getActiveXObject ,getFile,someMessage;
+             getAXO = new ActiveXObject("Scripting.FileSystemObject");  
+            getF = getAXO.GetFile("C://bootbak.ini");  
+            someMessage = "FileName:" + getF.Name   + "Filesize:" + getF.size + " bytes."; 
+     if(getF.size > 500)
+     {
+     alert(s);
+     } 
+     else
+     {
+     alert("This file's size is small!");
+     } 
+</script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>

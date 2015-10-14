@@ -1,0 +1,233 @@
+loadData({
+	"pv": 88528,
+	"clk": [ 
+		{
+			"xpath": "div-div-div-ul-li3-div2-div2-div-a",
+			"clk_num": "10"
+		}, 
+		{
+			"xpath": "div-div2-div-div2-a2",
+			"clk_num": "191"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a",
+			"clk_num": "239"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li4-div2-div-a-img",
+			"clk_num": "74"
+		}, 
+		{
+			"xpath": "div-div-ul-li-a2",
+			"clk_num": "5923"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li4-div-div-a-img",
+			"clk_num": "72"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div2-div-a-img",
+			"clk_num": "246"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a",
+			"clk_num": "189"
+		}, 
+		{
+			"xpath": "div-div2-div2-h3",
+			"clk_num": "21"
+		}, 
+		{
+			"xpath": "div-div2-div-div2-a",
+			"clk_num": "150"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li4-div3-div-a-img",
+			"clk_num": "35"
+		}, 
+		{
+			"xpath": "div-div2",
+			"clk_num": "67"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div3-div-a-img",
+			"clk_num": "214"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li3-div2-div-a-img",
+			"clk_num": "83"
+		}, 
+		{
+			"xpath": "div-div2-div",
+			"clk_num": "25"
+		}, 
+		{
+			"xpath": "div-div2-div2-div",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div-div2-div-a",
+			"clk_num": "12"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div4-div2-div-a",
+			"clk_num": "9"
+		}, 
+		{
+			"xpath": "div-div2-div-div2",
+			"clk_num": "14"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a2",
+			"clk_num": "124"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a3",
+			"clk_num": "110"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a4",
+			"clk_num": "50"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a5",
+			"clk_num": "47"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a6",
+			"clk_num": "48"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a7",
+			"clk_num": "32"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a8",
+			"clk_num": "36"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a9",
+			"clk_num": "27"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li4-div4-div-a-img",
+			"clk_num": "75"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div4-div-a-img",
+			"clk_num": "229"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div3-div2-div-a",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li3-div3-div-a-img",
+			"clk_num": "94"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li3-div-div-a-img",
+			"clk_num": "152"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li2-div2-div-a-img",
+			"clk_num": "118"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div2-div2-div-a",
+			"clk_num": "12"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li2-div4-div-a-img",
+			"clk_num": "113"
+		}, 
+		{
+			"xpath": "div-div2-div-a",
+			"clk_num": "399"
+		}, 
+		{
+			"xpath": "div-div2-div-div2-span",
+			"clk_num": "140"
+		}, 
+		{
+			"xpath": "div-div-ul-li-span2",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li3-div4-div-a-img",
+			"clk_num": "102"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li2-div3-div-a-img",
+			"clk_num": "108"
+		}, 
+		{
+			"xpath": "div-div-ul-li",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a10",
+			"clk_num": "27"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a11",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div-div2-div3-div-a12",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div-div2-div3-div",
+			"clk_num": "39"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li-div-div-a-img",
+			"clk_num": "368"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a2",
+			"clk_num": "287"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a3",
+			"clk_num": "46"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a4",
+			"clk_num": "65"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a5",
+			"clk_num": "28"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a6",
+			"clk_num": "28"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a7",
+			"clk_num": "130"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a8",
+			"clk_num": "57"
+		}, 
+		{
+			"xpath": "div-div2-div2-div-a9",
+			"clk_num": "53"
+		}, 
+		{
+			"xpath": "div-div-ul-li-a",
+			"clk_num": "1614"
+		}, 
+		{
+			"xpath": "div-div-div-ul-li2-div-div-a-img",
+			"clk_num": "112"
+		}, 
+		{
+			"xpath": "div-div2-div3-h3",
+			"clk_num": "30"
+		}
+	]
+});

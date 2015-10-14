@@ -1,0 +1,4 @@
+0 0 * * * sh /home/wangxinyi/public_html/xpath/getData.sh
+
+
+

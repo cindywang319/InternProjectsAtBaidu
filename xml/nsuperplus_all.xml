@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="gbk" ?> 
+<NSmLogData version="1.0">
+	<sample ename="sample" cname="抽样">
+		<group ename="smallFlow" cname="小流量" from="20140401" to="-">
+			<test id="1" ename="2test" cname="2实验组">
+				<attr key="uid" value="1.uid" desc="一批用户id" /> 
+			</test>
+			<test id="2" ename="0test" cname="0实验组">
+				<attr key="uid" value="2.uid" desc="一批用户id" /> 
+			</test>
+			<test id="3" ename="3test" cname="3实验组">
+				<attr key="uid" value="3.uid" desc="一批用户id" /> 
+			</test>
+			<test id="4" ename="oldPage" cname="传统首页实验组">
+				<attr key="uid" value="4.uid" desc="一批用户id" />  
+			</test> 
+			<test id="5" ename="newPage" cname="新首页实验组">
+				<attr key="uid" value="5.uid" desc="一批用户id" />  
+			</test>
+            <test id="16" ename="newReg" cname="新注册用户">
+                    <attr  key="uid" value="16.uid" desc="一批用户id" />
+            </test>
+			<test id="17" ename="newReg1" cname="新注册用户组1">
+                    <attr  key="uid" value="17.uid" desc="一批用户id" />
+            </test>
+			  <test id="18" ename="newReg2" cname="新注册用户组2">
+                    <attr  key="uid" value="18.uid" desc="一批用户id" />
+              </test>
+			  <test id="19" ename="newReg3" cname="新注册用户组3">
+                    <attr  key="uid" value="19.uid" desc="一批用户id" />
+              </test>
+			  <test id="20" ename="newReg4" cname="新注册用户组4">
+                    <attr  key="uid" value="20.uid" desc="一批用户id" />
+              </test>
+			  <test id="21" ename="fromClassic" cname="传统首页到新首页用户">
+				<attr key="uid" value="21.uid" desc="一批用户id" /> 
+			  </test>
+			  <test id="45" ename="rcmdCard01" cname="推荐卡片-个性化">
+				<attr key="uid" value="45.uid" desc="一批用户id" />
+			  </test>
+			  <test id="46" ename="rcmdCard02" cname="推荐卡片-排行榜">
+				<attr key="uid" value="46.uid" desc="一批用户id" />
+			  </test>
+			  <test id="47" ename="rcmdCard03" cname="推荐卡片-对照">
+				<attr key="uid" value="47.uid" desc="一批用户id" />
+			  </test>
+			<test id="54" ename="rcmdCard201" cname="推荐卡片二期-实验">
+					<attr key="uid" value="54.uid" desc="一批用户id" />
+			</test>
+			<test id="55" ename="rcmdCard202" cname="推荐卡片二期-对照">
+					<attr key="uid" value="55.uid" desc="一批用户id" />
+			</test>
+ 		</group>
+		<group ename="card's Ranking" cname="小琉量" from="20140528" to="-">
+			<test id="6" ename="last click" cname="上次点击">
+				<attr key="sid" value="7067" desc="" /> 
+			</test>
+			<test id="7" ename="const news" cname="固定到新闻">
+				<attr key="sid" value="7068" desc="" /> 
+			</test>
+			<test id="9" ename="random" cname="随机展现">
+				<attr key="sid" value="7072" desc="" /> 
+			</test>
+			<test id="11" ename="scence rp" cname="情景推荐">
+				<attr key="sid" value="7069" desc="" /> 
+			</test>
+			<test id="12" ename="last click-cont" cname="上次点击-续">
+                    <attr key="sid" value="7327" desc="" />
+            </test>
+			<test id="13" ename="const news-cont" cname="固定到新闻-续">
+                    <attr key="sid" value="7328" desc="" />
+            </test>
+			<test id="14" ename="random-cont" cname="随机展现-续">
+                    <attr key="sid" value="7329" desc="" />
+            </test>
+			<test id="15" ename="scence rp-cont" cname="情景推荐-续">
+                                <attr key="sid" value="7330" desc="" />
+            </test>
+            <test id="22" ename="super-font1" cname="字体1">
+                                <attr key="sid" value="7660" desc="" />
+            </test>
+            <test id="23" ename="super-font2" cname="字体2">
+                                <attr key="sid" value="7661" desc="" />
+            </test>
+            <test id="24" ename="super-font3" cname="字体3">
+                                <attr key="sid" value="7662" desc="" />
+            </test>
+            <test id="25" ename="super-font4" cname="字体4">
+                                <attr key="sid" value="7663" desc="" />
+            </test>
+			<test id="26" ename="super-picnews1" cname="运营新闻实验组">
+                                <attr key="sid" value="7848" desc="" />
+            </test>
+            <test id="27" ename="super-picnews2" cname="运营新闻对照组">
+                                <attr key="sid" value="7849" desc="" />
+            </test>
+			<test id="28" ename="super_nav_fixed_height1" cname="新首页导航限高实验组">
+                                <attr key="sid" value="8279" desc="" />
+            </test>
+            <test id="29" ename="super_nav_fixed_height2" cname="新首页导航限高对照组">
+                                <attr key="sid" value="8280" desc="" />
+            </test>
+			<test id="30" ename="scence_rp_1percent_1" cname="情景推荐1%小流量实验组">
+                                <attr key="sid" value="8307" desc="" />
+            </test>
+            <test id="31" ename="scence_rp_1percent_2" cname="情景推荐1%小流量对照组">
+                                <attr key="sid" value="8308" desc="" />
+            </test>
+			 <test id="32" ename="no_is_user" cname="未中IS小流量">
+                                <attr key="sid" value="7745" desc="" />
+            </test>
+			 <test id="33" ename="IS_cookie_compare" cname="极速搜索cookie对照组">
+                                <attr key="sid" value="8669" desc="" />
+            </test>
+			 <test id="34" ename="IS_cookie_experiment" cname="极速搜索cookie实验组">
+                                <attr key="sid" value="8670" desc="" />
+            </test>
+			 <test id="35" ename="IS_uid_compare" cname="极速搜索uid对照组">
+                                <attr key="sid" value="8671" desc="" />
+            </test>
+			 <test id="36" ename="IS_uid_experiment" cname="极速搜索uid实验组">
+                                <attr key="sid" value="8672" desc="" />
+            </test>
+			<test id="37" ename="scence_recommend1" cname="情景推荐2%-情景推荐">
+                                <attr key="sid" value="8757" desc="" />
+            </test>
+			<test id="38" ename="scence_recommend2" cname="情景推荐2%-固定新闻">
+                                <attr key="sid" value="8758" desc="" />
+            </test>
+			<test id="39" ename="scence_recommend3" cname="情景推荐2%-上次点击">
+                                <attr key="sid" value="8759" desc="" />
+            </test>
+			<test id="40" ename="is_exper" cname="is实验组">
+                                <attr key="sid" value="8406" desc="" />
+            </test>
+			<test id="41" ename="is_compete" cname="is对照组">
+                                <attr key="sid" value="8407" desc="" />
+            </test>
+			<test id="48" ename="nor_format_1" cname="统一样式8922">
+								<attr key="sid" value="8922" desc="" />
+            </test>
+			<test id="49" ename="nor_format_2" cname="统一样式8923">
+                                <attr key="sid" value="8923" desc="" />
+            </test>
+			<test id="50" ename="nor_format_3" cname="统一样式8924">
+                                <attr key="sid" value="8924" desc="" />
+            </test>
+			<test id="51" ename="leshi-data" cname="乐视网数据9353">
+                                  <attr key="sid" value="9353" desc="" />
+             </test>
+             <test id="52" ename="kong-data" cname="空跑数据9354">
+                                    <attr key="sid" value="9354" desc="" />
+              </test>
+              <test id="53" ename="aiqiyi-data" cname="爱奇艺数据9400">
+                                    <attr key="sid" value="9400" desc="" />
+              </test>
+			   <test id="56" ename="experimetn" cname="新闻浮层实验组">
+                                    <attr key="sid" value="9655" desc="" />
+              </test>
+              <test id="57" ename="compete" cname="新闻浮层对照组">
+                                    <attr key="sid" value="9656" desc="" />
+              </test>
+              <test id="58" ename="findcardexp" cname="发现卡片实验组">
+                                    <attr key="sid" value="10124" desc="" />
+              </test>
+	           <test id="59" ename="findcardcompare" cname="发现卡片对照组">
+                                    <attr key="sid" value="10125" desc="" />
+              </test>
+			  <test id="60" ename="musiccardexp" cname="音乐卡片实验组">
+                                    <attr key="sid" value="10143" desc="" />
+              </test>
+	           <test id="61" ename="musiccardcompare" cname="音乐卡片对照组">
+                                    <attr key="sid" value="10144" desc="" />
+              </test>
+			  <test id="62" ename="qingjingtuijiancard" cname="情景推荐10%流量">
+                                    <attr key="sid" value="10171" desc="" />
+              </test>
+ 		</group>
+  	</sample>
+  	<display ename="display" cname="展现">
+		<page ename="page" cname="页面">
+			<action id="6000100000" ename="visit" cname="访问" from="20120619" to="-" status="rd-done">
+				<attr key="logactid" desc="请求、刷新首页" value="6000100000:id;" from="20140201" to="-" /> 
+			</action>
+			<action id="8000100000" ename="oldvisit" cname="传统首页访问" from="20120619" to="-" status="rd-done">
+                <attr key="logactid" desc="请求、刷新首页" value="8000100000:id;" from="20140201" to="-" />
+            </action>
+		</page>
+	   <card  ename="oldPage" cname="老版首页切到新版首页用户">
+	       <action id="6000100000" ename="visit" cname="访问" from="20120619" to="-" status="rd-done">
+		         <attr key="fromClassic" desc="请求、刷新首页" value="1:用户数;" from="20140201" to="-" />
+		   </action>
+	   </card>
+	   <card  ename="setFirstPage" cname="设为首页">
+			<action id="9000100000" ename="iehomepage" cname="ie设为首页比例" from="20140717" to="-" status="fe-done">
+				 <attr key="opType" type="norminal" desc="是否设为首页" value="0:不是;1:是;" from="20120717" to="-" />
+			</action>
+	   </card>
+		<card ename="card" cname="卡片">
+			<module ename="nav" cname="导航">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="nav" desc="导航打开;" value="on:打开;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="navplus:导航模块;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="navplus:导航模块;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="navplus:导航模块;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="news" cname="新闻">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="news" desc="新闻打开" value="on:打开;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="2:新闻;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="2:新闻;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="2:新闻;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="music" cname="音乐">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="music" desc="音乐打开" value="on:打开;" from="20140201" to="-" /> 
+					</action>				
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="3:音乐;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="3:音乐;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="3:音乐;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="nba" cname="NBA">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="nba" desc="NBA打开" value="on:打开;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="6:NBA;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="6:NBA;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="6:NBA;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="tuangou" cname="团购">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="tuangou" desc="团购打开" value="on:打开;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="5:团购;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="5:团购;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="5:团购;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="xingzuo" cname="星座">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="xingzuo" desc="星座打开" value="on:打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="7:星座;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="7:星座;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="7:星座;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="soccer" cname="足球">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="soccer" desc="足球打开" value="on:打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="8:足球;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="8:足球;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="8:足球;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="worldcup" cname="世界杯">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="worldcup" desc="世界杯打开" value="on:世界杯打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="worldcup:世界杯;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="worldcup:世界杯;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="worldcup:世界杯;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="lottery" cname="彩票">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="lottery" desc="彩票打开" value="on:彩票打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="10:彩票;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="10:彩票;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="10:彩票;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="hightest" cname="高考">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="hightest" desc="高考打开" value="on:高考打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="11:高考;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="11:高考;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="11:高考;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="stock" cname="股票">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="stock" desc="股票打开" value="on:股票打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="12:股票;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="12:股票;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="12:股票;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+            <module ename="videocard" cname="视频卡片">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="video" desc="视频打开" value="on:视频打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="15:视频;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="15:视频;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="15:视频;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="youxi" cname="游戏">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="youxi" desc="游戏打开" value="on:游戏打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="13:游戏;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="13:游戏;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="13:游戏;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="treasure" cname="宝箱">
+				<module ename="layerShow" cname="浮层">
+					<action id="1300000000" ename="on" cname="展现" from="20120619" to="-" status="rd-done">
+						<attr key="action" desc="游戏打开" value="TreasureTips:数据;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="landPage" cname="中间页">
+					<action id="1340000000" ename="refresh" cname="展现" from="20140201" to="-" status="fe-done">
+						<attr key="action" type="norminal" desc="默认展现的模块" value="midpage:数据;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="winList" cname="获奖名单">
+					<action id="1310000000" ename="refresh" cname="展现" from="20140201" to="-" status="fe-done">
+						<attr key="action" type="norminal" desc="默认展现的模块" value="TreasureWinList:数据;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+            <module ename="recommend" cname="推荐">
+				<module ename="tab" cname="tab">
+					<action id="6000100000" ename="on" cname="拥有" from="20120619" to="-" status="rd-done">
+						<attr key="recommend" desc="推荐打开" value="on:推荐打开;" from="20140201" to="-"/> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="1100000000" ename="refresh" cname="刷新" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="18:推荐;#refresh:刷新;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="click" cname="点击" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="18:推荐;#click:点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000000" ename="wheel" cname="滚动" from="20140201" to="-" status="fe-done">
+						<attr key="showTab#opType" type="norminal" desc="默认展现的模块" value="18:推荐;#wheel:滚动;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</module>
+			<module ename="tipsplus" cname="提醒系统">
+            <module ename="topmen" cname="页面右上角提醒">
+                <action id="1400000000" ename="normalClick" cname="展现" from="20140201" to="-" status="fe-done" type="func"> 
+                    <attr key="showType" type="norminal" desc="" value="2000:宝箱;2001:换肤;2002:消息;2003:设为首页;2004:用户名;" from="20140201" to="-" /> 
+                </action>
+            </module>
+            <module ename="newcard" cname="卡片设置按钮处提醒">
+                <action id="1400000000" ename="normalClick" cname="展现" from="20140201" to="-" status="fe-done" type="func"> 
+                    <attr key="cardId#showType" type="norminal" desc="" value="1:导航;2:新闻;3:音乐;4:提醒;5:团购;6:nba;7:星座;8:足球;10:彩票;12:股票;13:游戏;#0099:tips展现;" from="20140201" to="-" /> 
+                </action>
+            </module>
+            <module ename="cardsub" cname="第三方订阅卡片展现提醒">
+                <action id="1400000000" ename="normalClick" cname="展现" from="20140201" to="-" status="fe-done" type="func"> 
+                    <attr key="cardId#showType" type="norminal" desc="" value="13#cardsubshow:游戏卡片展现" from="20140201" to="-" /> 
+                </action>
+            </module>
+        </module>
+			<module ename="activity" cname="明星换肤">
+				<module ename="activityskin" cname="明星换肤模块">
+				<action id="4010310000" ename="showlayer" cname="弹窗浮层"  from="20140201" to="-" status="fe-done" type="func">
+                <attr key="showType" type="norminal" desc="点击类型" value="activityskinvideodialogshow:视频浮层显示;indexskinLotterydialogshow:抽奖浮层展现" from="20140414" to="-" />
+            </action>
+				<action id="4010311010" ename="sharelayer" cname="分享浮层"  from="20140201" to="-" status="fe-done" type="func">
+                    <attr key="showType" type="norminal" desc="点击分享" value="indexactivityskinshareshow:风险浮层展现" from="20140414" to="-" />
+                </action>
+				</module>
+			</module>			
+		</card>
+
+	</display>
+	<click ename="click" cname="点击">
+		<page ename="page" cname="页面">
+			<card ename="news" cname="新闻">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="leftClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="点击新闻tab" value="2:新闻;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="滑动滚轮展现新闻tab" value="2:新闻;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="leftPicture" cname="左边图片">
+						<action id="0200100001" ename="picChange" cname="切换图片" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="preBigImgArrow:图片上一页按钮;nextBigImgArrow:图片下一页按钮;smallImg:小图点击;" from="20140310" to="-" /> 
+						</action>
+						<action id="0200100001" ename="wordClick" cname="内容" from="20140201" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="bigImgTitle:图片标题;bigImg:大图片点击;" from="20140310" to="-" /> 
+						</action>
+					</module>
+					<module ename="rightArea" cname="右侧词条">
+						<action id="0200100001" ename="topClick" cname="上方" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="wordsChange:搜索热词换一换;words:点击搜索热词;topic:点击热门话题;" from="20140310" to="-" /> 
+						</action>
+						<action id="0200100001" ename="words" cname="搜索热词" from="20140201" to="-" status="fe-done" type="search" flag="use">
+							<attr key="clickType#newsType" type="norminal" desc="点击类型" value="wordTopic:搜索热词与热门话题总点击;#words:点击搜索热词;" from="20140310" to="-" /> 
+						</action>
+						<action id="0200100001" ename="topic" cname="热门话题" from="20140201" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="clickType#newsType" type="norminal" desc="点击类型" value="wordTopic:搜索热词与热门话题总点击;#topic:点击热门话题;" from="20140310" to="-" /> 
+						</action>
+					</module>
+					<module ename="rightFloatAnchor" cname="右边浮层">
+						<action id="0200200001" ename="layershow" cname="浮层展现" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="layerShow:浮层展现;" from="20140310" to="-" /> 
+						</action>
+						<action id="0200200001" ename="layerclick" cname="浮层点击" from="20140201" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="wordTopic:浮层点击;" from="20140310" to="-" /> 
+						</action>
+					</module>
+				</module>
+			</card>
+			<card ename="nav" cname="导航">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="leftClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="navplus:导航模块;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="navplus:导航模块;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="mynav" cname="我的导航">
+						<module ename="nori" cname="未分类模式">
+							<action id="0100100001" ename="site" cname="网址" from="20140201" to="-" status="fe-done" type="outlink" flag="use">
+								<attr key="isNplus#tab" desc="" value="false:不是;#nav:全部tab;" from="20140310" to="-" /> 
+							</action>
+						</module>
+						<module ename="nplus" cname="分类展现模式">
+							<action id="0100100001" ename="site" cname="网址" from="20140201" to="-" status="fe-done" type="outlink" flag="use">
+								<attr key="isNplus#tab" desc="" value="true:是;#nav:全部tab;" from="20140310" to="-" /> 
+							</action>
+						</module>
+						<module ename="edit" cname="编辑">
+							<module ename="nori" cname="未分类模式">
+								<action id="0100500001" ename="AClick" cname="下方网址编辑" from="20140201" to="-" status="fe-done" type="func" flag="use">
+									<attr key="isNplus#opType" desc="" value="false:否;#btnDel:导航删除按钮;btnEdit:导航编辑按钮;btnOk:导航编辑层确定按钮;btnCancel:导航编辑层取消按钮;" from="20140310" to="-" /> 
+								</action>
+								<action id="0100500001" ename="BClick" cname="网址分类展示开关" from="20140201" to="-" status="fe-done" type="func" flag="use">
+									<attr key="toState#opType" desc="" value="on:开启;#isNplusSwitchTurn:网址分类展示开关;" from="20140310" to="-" /> 
+								</action>
+								<action id="0100100002" ename="CClick" cname="全部网址拖动" from="20140201" to="-" status="fe-done" type="func" flag="use">
+									<attr key="opType" desc="" value="nori:全部网址拖动;" from="20140310" to="-" /> 
+								</action>
+							</module>
+							<module ename="nplus" cname="分类模式">
+								<action id="0100500001" ename="AClick" cname="下方网址编辑" from="20140201" to="-" status="fe-done" type="func" flag="use">
+									<attr key="opType" desc="" value="btnAddDir:添加分类;btnAddDirOk:添加分类确定;btnAddDirCancel:添加分类取消;btnDelDir:分类删除按钮;btnDirEdit:分类编辑按钮;btnDirOk:编辑分类名确定;btnDirCancel:编辑分类名取消;" from="20140310" to="-" /> 
+								</action>
+								<action id="0100500001" ename="BClick" cname="网址分类展示开关" from="20140201" to="-" status="fe-done" type="func" flag="use">
+									<attr key="toState#opType" desc="" value="off:关闭;#isNplusSwitchTurn:网址分类展示开关;" from="20140310" to="-" /> 
+								</action>
+								<action id="0100100002" ename="CClick" cname="分类拖动" from="20140201" to="-" status="fe-done" type="func" flag="use">
+									<attr key="opType" desc="" value="nav:分类网址拖动;dir:分类拖动;" from="20140310" to="-" /> 
+								</action>
+							</module>
+						</module>
+					</module>
+					<module ename="recnav" cname="推荐导航">
+						<module ename="used" cname="常用网址">
+							<action id="0100100001" ename="link" cname="网址" from="20140201" to="-" status="fe-done" type="outlink" flag="use">
+								<attr key="tab#clfType" desc="" value="nused:常用tab;#nused:常用tab;" from="20140310" to="-" /> 
+							</action>
+						</module>
+						<module ename="hot" cname="热门网址">
+							<action id="0100100001" ename="link" cname="网址" from="20140201" to="-" status="fe-done" type="outlink" flag="use">
+								<attr key="tab#clfType" desc="" value="nused:常用;#hot:热门;" from="20140310" to="-" /> 
+							</action>
+						</module>
+						<module ename="deleteButton" cname="删除按钮">
+							<action id="0100300001" ename="closeUsed" cname="关闭推荐网址" from="20140201" to="-" status="fe-done" type="func" flag="use">
+								<attr key="opType" desc="" value="closeUsed:关闭推荐网址;" from="20140310" to="-" /> 
+							</action>
+						</module>
+					</module>
+					<module ename="addArea" cname="添加网址">
+						<action id="0100400001" ename="AllClick" cname="所有点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" desc="" value="btnAddDir:点击添加分类;delRecoNav:点击删除推荐网址;addRecoNav:点击添加推荐网址;btnAdd：点击自定义添加按钮;addSuc:成功添加;" from="20140310" to="-" /> 
+						</action>
+					</module>
+					<module ename="mynav" cname="我的导航">
+						<action id="0100300001" ename="tab" cname="tab" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" desc="" value="navTab:点击我的导航tab;" from="20140310" to="-" /> 
+						</action>
+					</module>
+					<module ename="recnav" cname="推荐导航">
+						<action id="0100300001" ename="tab" cname="tab" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" desc="" value="nusedTab:点击推荐导航tab;" from="20140310" to="-" /> 
+						</action>
+					</module>
+					<module ename="other" cname="其他功能按钮点击">
+						<action id="0100300001" ename="allClick" cname="所有点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" desc="" value="nusedAdd:常用tab添加按钮;nusedExtend:常用tab打开收藏;navBack:全部tab返回上部常用;navBottomBack:全部tab底部返回按钮;navAdd:全部tab添加按钮;navEdit:全部tab编辑按钮;naddBack:添加tab返回按钮" from="20140310" to="-" /> 
+						</action>
+						<action id="0100200001" ename="changeClick" cname="切换点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+							<attr key="isNplus" type="norminal" desc="是否是分类模式" value="true:是;false:否;" from="20140201" to="-" /> 
+						</action>
+					</module>
+				</module>
+			</card>
+			<card ename="music" cname="音乐">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="leftClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="3:音乐;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="3:音乐;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="0300000005" ename="AClick" cname="右侧热门频道" from="20140402" to="-" status="fe-done" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="类型" value="listen60s:试听超过60s;changechannel:换台;listen:试听歌曲;scrolllrc:滚动歌词;" from="20140402" to="-" /> 
+					</action>
+					<action id="0300000001" ename="BClick" cname="播放量" from="20140402" to="-" status="fe-done" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="点击位置" value="playbtn:开始播放;hatebtn:垃圾桶;nextbtn:下一首;ccbtn:换台按钮;" from="20140402" to="-" />
+					</action>
+					<action id="0300000001" ename="CClick" cname="左侧歌曲链接" from="20140402" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="opType" type="norminal" desc="点击位置" value="downloadbtn:下载按钮;songname:歌曲名称;singername:歌手名称;" from="20140402" to="-" />
+					</action> 
+				</module>
+			</card>
+			<card ename="tuangou" cname="团购">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="leftClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="5:团购;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="5:团购;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="0500000001" ename="allClick" cname="所有点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="gbuyMore:更多团购;title:标题;btn:按钮;img:图片;areas:区域连接;rec:推荐连接;" from="20140414" to="-" /> 
+					</action>
+					<action id="page-card-tpl-groupbuy" ename="imgClick" cname="大图点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="xpaths#xindex5" type="norminal" desc="点击类型" value="div-div-div-ul-li-div-div-a:图片点击;div-div-div-ul-li-div-div-div-a:标题点击;#1:第一张;2:第二张;3:第三张;4:第四张;" from="20140414" to="-" /> 
+					</action>
+					<action id="page-card-tpl-groupbuy" ename="moreClick" cname="更多链接点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-a:更多链接;" from="20140414" to="-" /> 
+					</action>
+					<action id="page-card-tpl-groupbuy" ename="getClick" cname="领取优惠券点击" from="20140414" to="-" status="fe-done" type="func" flag="use">
+						<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div-div-div-span2:点击领取;" from="20140414" to="-" /> 
+					</action>
+					<action id="page-card-tpl-groupbuy" ename="useClick" cname="使用优惠券点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div-div-div3-div-a:点击查看;div-div2-div-div-div-div3-div-a2:立即使用;" from="20140414" to="-" /> 
+					</action>
+					<action id="page-card-tpl-groupbuy" ename="myClick" cname="我的账户点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="xpath" type="norminal" desc="点击类型" value="ddiv-div2-div-div2-a:代金券;div-div2-div-div2-a2:我的订单;" from="20140414" to="-" /> 
+					</action>
+					<action id="page-card-tpl-groupbuy" ename="linkClick" cname="右侧外链点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="xpaths#xindex2" type="norminal" desc="点击类型" value="div-div-div-div-a:链接;#2:推荐链接;3:区域链接;" from="20140414" to="-" /> 
+					</action>
+					<action id="page-card-tpl-groupbuy" ename="btnClick" cname="翻页按钮点击" from="20140414" to="-" status="fe-done" type="func" flag="use">
+						<attr key="xpath" type="norminal" desc="点击类型" value="div-div-ul-li-a2:下一页;div-div-ul-li-a:上一页;" from="20140414" to="-" /> 
+					</action>
+				</module>
+			</card>
+			<card ename="nba" cname="NBA">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="6:NBA;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="6:NBA;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="head" cname="卡片头部">
+						<action id="page-card-tpl-nbanews" ename="headclick" cname="头部点击" from="20141022" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-a:赛事点击;div-a2:新闻点击;div-a4:刷新点击" from="20141022" to="-" />						
+						</action>
+						<action id="page-card-tpl-nbanews" ename="lotteryballclick" cname="点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-a3:竞彩篮球点击;" from="20141022" to="-" />						
+						</action>
+					</module>
+					<module ename="con-main" cname="卡片内部">
+						<module ename="left-content" cname="左边内容">
+							<module ename="news-left" cname="新闻左边内容">
+								<action id="page-card-tpl-nbanews" ename="bigimgclick" cname="点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+									<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-a:左边大图点击;" from="20141022" to="-" />						
+								</action>
+								<action id="page-card-tpl-nbanews" ename="changeclick" cname="点击" from="20141022" to="-" status="fe-done" type="func" flag="use">
+									<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div:切换按钮点击;" from="20141022" to="-" />						
+								</action>
+								<action id="page-card-tpl-nbanews" ename="videoclick" cname="点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+									<attr key="xpath" type="norminal" desc="点击类型" value="div3-div-div-div-a:左边第一个视频点击;div3-div-div-div2-a:左边第二个视频点击" from="20141022" to="-" />						
+								</action>
+								<action id="4010320001" ename="scrollclick" cname="点击" from="20141022" to="-" status="fe-done" type="func" flag="use">
+									<attr key="clickType" type="norminal" desc="点击类型" value="indexnbanewsscrollbarscroll:nba区域滚动" from="20141022" to="-" />						
+								</action>
+							</module>
+							<module ename="com-left" cname="赛事左边内容">
+								<action id="page-card-tpl-nbanews" ename="barclick" cname="点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+									<attr key="xpath" type="norminal" desc="点击类型" value="div2-div-div-div2-div-a:排名点击;div2-div-div-div2-div-a2:统计点击;div2-div-div-div2-div-a3:贴吧点击" from="20141022" to="-" />						
+								</action>
+								<action id="page-card-tpl-nbanews" ename="scrollclick" cname="点击" from="20141022" to="-" status="fe-done" type="func" flag="use">
+									<attr key="xpath" type="norminal" desc="点击类型" value="div2-div-div2-div2-div2-div:滚动条点击" from="20141022" to="-" />						
+								</action>
+								<action id="page-card-tpl-nbanews" ename="teamclick" cname="点击" from="20141022" to="-" status="fe-done" type="search" flag="use">
+									<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-div-a:赛事区域球队;" from="20141022" to="-" />						
+								</action>
+								<action id="page-card-tpl-nbanews" ename="detailclick" cname="点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+									<attr key="xpaths#xindex7" type="norminal" desc="点击类型" value="div-div-div-div-div-div-div-a:球队右侧区域外链点击;#1:第一个;2:第二个;3:第三个;" from="20141022" to="-" />						
+								</action>
+							</module>
+						</module>
+						<module ename="right-content" cname="右边内容">
+							<module ename="news-right" cname="新闻右边内容">
+								<action id="page-card-tpl-nbanews" ename="outlinkclick" cname="文字外链点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+									<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-ul-li-div-a:文字点击;" from="20141022" to="-" />						
+								</action>
+							</module>
+							<module ename="news-right" cname="赛事右边内容">
+								<action id="page-card-tpl-nbanews" ename="outlinkclick" cname="文字外链点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+									<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-p-a:文字点击;" from="20141022" to="-" />						
+								</action>
+								<action id="page-card-tpl-nbanews" ename="videoclick" cname="视频外链点击" from="20141022" to="-" status="fe-done" type="outlink" flag="use">
+									<attr key="xpath" type="norminal" desc="点击类型" value="div2-div2-div-a:视频图片链接点击;" from="20141022" to="-" />						
+								</action>
+							</module>
+						</module>
+					</module>
+				</module>
+			</card>
+			<card ename="xingzuo" cname="星座">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="7:星座;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="7:星座;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="show" cname="展现层">
+						<action id="0700200001" ename="changeXingzuoTab" cname="切换星座tab" from="20140414" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="tab:点击tab;" from="20140414" to="-" /> 
+						</action>
+						<action id="0700200001" ename="changeYunshi" cname="切换运势tab" from="20140414" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="subTab:点击子tab;" from="20140414" to="-" /> 
+						</action>
+						<action id="0700200001" ename="btnSet" cname="管理星座按钮点击" from="20140414" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="btnSet:点击管理星座;" from="20140414" to="-" /> 
+						</action>
+						<action id="0700200001" ename="otherClick" cname="其他点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="xingpan:点击星盘自测;shengxiao:点击生肖运势;taluo:点击塔罗占卜;xingming:点击姓名测试;more:点击更多运势" from="20140414" to="-" /> 
+						</action>
+					</module>
+					<module ename="setting" cname="设置层">
+						<action id="0700100001" ename="allClick" cname="所有点击" from="20140414" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="item:点击选项;btnOK:点击确定按钮" from="20140414" to="-" /> 
+						</action>
+					</module>
+				</module>
+			</card>
+			<card ename="weather" cname="天气">
+				<module ename="content" cname="内部">
+					<action id="5000000002" ename="layerShow" cname="浮层展现" from="20140310" to="-" status="fe-done" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="展现类型" value="layerShow:浮层展现;" from="20140310" to="-" /> 
+					</action>
+					<action id="5000100000" ename="settingDisplay" cname="设置层展现" from="20140310" to="-" status="fe-done" type="func" flag="use">
+						<attr key="showType" type="norminal" desc="展现类型" value="intoSetting:设置层设置界面展现;settingMod:打开天气设置层;" from="20140310" to="-" />
+					</action> 
+					<action id="5000100001" ename="setting" cname="设置层" from="20140310" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="changeCity:切换城市;extremeWeather:极端天气勾选框;warnWeather:极端天气;layerShow:浮层展现;" from="20140310" to="-" /> 
+					</action>
+					<action id="5000100001" ename="sevenDayWeather" cname="七天天气" from="20140310" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="sevenDayWeather:七天天气;" from="20140310" to="-" /> 
+					</action>
+					<action id="5000100001" ename="setting" cname="每天天气" from="20140310" to="-" status="fe-done" type="search" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="today:第一天;tomorrow:第二天;thirdday:第三天;fourthday:第四天;fifthday:第五天;" from="20140310" to="-" /> 
+					</action>
+					<action id="5000100002" ename="operate" cname="提交城市操作" from="20140310" to="-" status="fe-done" type="func" flag="use">
+						<attr key="operateType" type="norminal" desc="操作类型" value="submitCity:提交城市;" from="20140310" to="-" /> 
+					</action>
+				</module>
+			</card>
+			<card ename="skin" cname="换肤">
+				<module ename="content" cname="内部">
+					<action id="5100000001" ename="click" cname="左键点击" from="20140310" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="definedReUploadBtn:重新上传flash点击;definedUploadBtn:上传flash点击;chooseDefinedImg:保存上传图片;deleteDefinedImg:删除上传图片;imgItem:背景图片点击;nextPageBtn:下一页按钮;prePageBtn:上一页按钮;PageBtn:页码按钮;closeSkinBtn:关闭换肤功能;openSkinBtn:打开换肤功能;closeSkinModBtn:关闭设置层;" from="20140310" to="-" /> 
+					</action>
+					<action id="5100000002" ename="hover" cname="悬浮图片" from="20140310" to="-" status="fe-done" type="func" flag="use">
+						<attr key="hoverType" type="norminal" desc="悬浮类型" value="imgItem:悬浮图片;" from="20140310" to="-" /> 
+					</action>
+					<action id="5100000003" ename="opearte" cname="编辑图片" from="20140310" to="-" status="fe-done" type="func" flag="use">
+						<attr key="skinOperate" type="norminal" desc="操作名称" value="changeLogo:更改logo;cutImg:剪切图片;" from="20131113" to="-" /> 
+					</action>
+					<action id="5100000004" ename="definedInfo" cname="自定义信息" from="20140310" to="-" status="fe-done" type="func" flag="use">
+  						<attr key="infoType" type="norminal" desc="信息类型" value="uploadFaile:上传失败;uploadSuccess:上传成功;uploadImgSize:上传图片大小;" from="20140310" to="-" />
+					</action>
+				</module>
+			</card>
+			<card ename="tips" cname="提醒">
+				<module ename="content" cname="内部">
+					<action id="0400100001" ename="words" cname="消息内容" from="20130111" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="msgType" type="norminal" desc="点击消息的类型" value="qunar:去哪儿;gaojie:高街网;yidongwb:移动微博;新浪博客:xinablog;iqiyi:爱奇艺;yaohao:摇号;weather:天气预警;mis:mis;video:影视;comic:动漫;tv:电视剧;show:综艺;ssq:双色球;pl3:排列3;pl5:排列5;dlt:大乐透;fc3d:福彩3d;qxc:七星彩;qlc:七乐彩;txwb:腾讯微博;bdzoom:百度空间;bdmsg:百度消息;bdiknow:百度知道;bdpics:百度相册;mail126:126邮箱;mail163:163邮箱;mailyeah:yeahNet邮箱;bdtieba:百度贴吧;sinawb:新浪微博;" from="20130111" to="-" /> 
+					</action>
+					<action id="0400400001" ename="del" cname="删除按钮" from="20130111" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgType" type="norminal" desc="点击消息的类型" value="qunar:去哪儿;gaojie:高街网;yidongwb:移动微博;sinablog:新浪博客;iqiyi:爱奇艺;yaohao:摇号;weather:天气预警;mis:mis;video:影视;comic:动漫;tv:电视剧;show:综艺;ssq:双色球;pl3:排列3;pl5:排列5;dlt:大乐透;fc3d:福彩3d;qxc:七星彩;qlc:七乐彩;txwb:腾讯微博;bdzoom:百度空间;bdmsg:百度消息;bdiknow:百度知道;bdpics:百度相册;mail126:126邮箱;mail163:163邮箱;mailyeah:yeahNet邮箱;bdtieba:百度贴吧;sinawb:新浪微博;" from="20130111" to="-" /> 
+					</action>
+					<action id="0400500001" ename="btn" cname="操作按钮" from="20130111" to="-" status="fe-done" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="点击按钮的类型" value="btnFold:收起按钮;btnExtend:展开按钮;clickBodyFold:点击页面收起;btnSetting:设置;" from="20130111" to="-" /> 
+					</action>
+				</module>
+			</card>
+			<card ename="setting" cname="设置">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击7" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="set:设置;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="set:设置;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="0900000001" ename="normalClick" cname="上方tab点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="tab" type="norminal" desc="展现的tab" value="tab:模块tab;msg:消息提醒tab;" from="20140201" to="-" /> 
+					</action>
+					<action id="0900100001" ename="addCard" cname="添加卡片" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="cmd#id" type="norminal" desc="" value="add:添加;#1:导航;2:新闻;3:音乐;4:提醒;5:团购;6:nba;7:星座;8:足球;9:世界杯;10:彩票;11:高考;12:股票;13:游戏" from="20140201" to="-" /> 
+					</action>
+					<action id="0900100001" ename="delCard" cname="删除卡片" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="cmd#id" type="norminal" desc="" value="del:添加;#1:导航;2:新闻;3:音乐;4:提醒;5:团购;6:nba;7:星座;8:足球;9:世界杯;10:彩票;11:高考;12:股票;13:游戏" from="20140201" to="-" /> 
+					</action>
+					<action id="0900200001" ename="msg" cname="通知提醒设置" from="20140201" to="-" status="fe-done ubs-edited" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="操作类型" value="bind:绑定;rebind:重新绑定;unbind:解除绑定;receive:接收;unreceive:不接收;yaohao:摇号" from="20140201" to="-" /> 
+					</action>
+					<action id="0900300001" ename="modhide" cname="隐藏模块" from="20140523" to="-" status="fe-done" type="func" flag="use">
+						<attr key="cmd" type="norminal" desc="操作方式" value="show:展现;ok:隐藏;cancel:取消隐藏;" from="20140523" to="-"/>
+					</action>
+				</module>
+			</card>
+			<card ename="soccer" cname="足球">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="8:足球;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="8:足球;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<action id="0800100001" ename="setClick" cname="设置层" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="" value="item:点击选项;btnOK:点击确定按钮;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800200001" ename="tag" cname="标签" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="" value="1:英超;2:欧冠;3:西甲;4:意甲;5:德甲;6:管理足球;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800300001" ename="game1" cname="英超赛事" from="20140201" to="-" status="fe-done ubs-edited" type="outlink" flag="use">
+						<attr key="leagueNo#opType" type="norminal" desc="" value="1:英超;#selectround:切换轮次;team:队名;gamenews:比赛新闻;videourl:视频直播;staturl:技术统计;texturl:文字直播;matchurl:视频集锦;shooter:射手榜;score:积分榜;tieba:贴吧;scroll:滚动赛事;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800300001" ename="game2" cname="欧冠赛事" from="20140201" to="-" status="fe-done ubs-edited" type="outlink" flag="use">
+						<attr key="leagueNo#opType" type="norminal" desc="" value="2:欧冠;#selectround:切换轮次;team:队名;gamenews:比赛新闻;videourl:视频直播;staturl:技术统计;texturl:文字直播;matchurl:视频集锦;shooter:射手榜;score:积分榜;tieba:贴吧;scroll:滚动赛事;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800300001" ename="game3" cname="西甲赛事" from="20140201" to="-" status="fe-done ubs-edited" type="outlink" flag="use">
+						<attr key="leagueNo#opType" type="norminal" desc="" value="3:西甲;#selectround:切换轮次;team:队名;gamenews:比赛新闻;videourl:视频直播;staturl:技术统计;texturl:文字直播;matchurl:视频集锦;shooter:射手榜;score:积分榜;tieba:贴吧;scroll:滚动赛事;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800300001" ename="game4" cname="意甲赛事" from="20140201" to="-" status="fe-done ubs-edited" type="outlink" flag="use">
+						<attr key="leagueNo#opType" type="norminal" desc="" value="4:意甲;#selectround:切换轮次;team:队名;gamenews:比赛新闻;videourl:视频直播;staturl:技术统计;texturl:文字直播;matchurl:视频集锦;shooter:射手榜;score:积分榜;tieba:贴吧;scroll:滚动赛事;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800300001" ename="game5" cname="德甲赛事" from="20140201" to="-" status="fe-done ubs-edited" type="outlink" flag="use">
+						<attr key="leagueNo#opType" type="norminal" desc="" value="5:德甲;#selectround:切换轮次;team:队名;gamenews:比赛新闻;videourl:视频直播;staturl:技术统计;texturl:文字直播;matchurl:视频集锦;shooter:射手榜;score:积分榜;tieba:贴吧;scroll:滚动赛事;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800400001" ename="newsPicOperate" cname="右侧新闻图片切换" from="20140201" to="-" status="fe-done ubs-edited" type="func" flag="use">
+						<attr key="opType" type="norminal" desc="" value="preClick:上一张;nxtClick:下一张;hoverSwitch:图片hover切换;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800400001" ename="newsPic" cname="右侧新闻图片" from="20140201" to="-" status="fe-done ubs-edited" type="outlink" flag="use">
+						<attr key="opType" type="norminal" desc="" value="picClick:图片点击;" from="20140201" to="-" /> 
+					</action>
+					<action id="0800400001" ename="newsWords" cname="右侧热门新闻" from="20140201" to="-" status="fe-done ubs-edited" type="outlink" flag="use">
+						<attr key="opType" type="norminal" desc="" value="msg:热门新闻;" from="20140201" to="-" /> 
+					</action>
+				</module>
+			</card>
+			<card ename="worldcup" cname="世界杯">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="worldcup:世界杯;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="worldcup:世界杯;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+                     <module ename="topClick" cname="上方点击">
+						<action id="2000200001" ename="operate" cname="功能操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="timeline:赛程安排;mypoint:我的积分;loginAward:领取每日登录奖励;rules:活动规则;" from="20140530" to="-"/>
+						</action>
+					</module>
+					<module ename="match" cname="竞彩赛事">
+						<action id="2000200001" ename="countryinfo" cname="国家队信息" from="20140530" to="-" status="fe-done" type="search" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="teamName:球队名称;" from="20140530" to="-"/>
+						</action>
+						<action id="2000200001" ename="outerinfo" cname="外部信息" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="links:球队下面的文字链接;" from="20140530" to="-"/>
+						</action>
+						<action id="2000200001" ename="bet" cname="竞猜" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="odd:竞猜选择的赔率;lottery:单场竞猜;bet-1:比赛赛场1竞彩;bet-2:比赛赛场2竞彩;bet-3:比赛赛场3竞彩;bet-4:比赛赛场4竞彩;bet-5:比赛赛场5竞彩;bet-6:比赛赛场6竞彩;bet-7:比赛赛场7竞彩;bet-8:比赛赛场8竞彩;bet-9:比赛赛场9竞彩;bet-10:比赛赛场10竞彩;bet-11:比赛赛场11竞彩;bet-12:比赛赛场12竞彩;bet-13:比赛赛场13竞彩;bet-14:比赛赛场14竞彩;bet-15:比赛赛场15竞彩;bet-16:比赛赛场16竞彩;bet-17:比赛赛场17竞彩;bet-18:比赛赛场18竞彩;bet-19:比赛赛场19竞彩;bet-20:比赛赛场20竞彩;bet-21:比赛赛场21竞彩;bet-22:比赛赛场22竞彩;bet-23:比赛赛场23竞彩;bet-24:比赛赛场24竞彩;bet-25:比赛赛场25竞彩;bet-26:比赛赛场26竞彩;bet-27:比赛赛场27竞彩;bet-28:比赛赛场28竞彩;bet-29:比赛赛场29竞彩;bet-30:比赛赛场30竞彩;bet-31:比赛赛场31竞彩;bet-32:比赛赛场32竞彩;bet-33:比赛赛场33竞彩;bet-34:比赛赛场34竞彩;bet-35:比赛赛场35竞彩;bet-36:比赛赛场36竞彩;bet-37:比赛赛场37竞彩;bet-38:比赛赛场38竞彩;bet-39:比赛赛场39竞彩;bet-40:比赛赛场40竞彩;bet-41:比赛赛场41竞彩;bet-42:比赛赛场42竞彩;bet-43:比赛赛场43竞彩;bet-44:比赛赛场44竞彩;bet-45:比赛赛场45竞彩;bet-46:比赛赛场46竞彩;bet-47:比赛赛场47竞彩;bet-48:比赛赛场48竞彩;bet-49:比赛赛场49竞彩;bet-50:比赛赛场50竞彩;bet-54:比赛赛场54竞彩;bet-55:比赛赛场55竞彩;bet-53:比赛赛场53竞彩;bet-54:比赛赛场54竞彩;bet-55:比赛赛场55竞彩;bet-56:比赛赛场56竞彩;bet-57:比赛赛场57竞彩;bet-58:比赛赛场58竞彩;bet-59:比赛赛场59竞彩;bet-60:比赛赛场60竞彩;bet-61:比赛赛场61竞彩;bet-62:比赛赛场62竞彩;bet-63:比赛赛场63竞彩;bet-64:比赛赛场64竞彩;" from="20140530" to="-"/>
+						</action>
+					</module>
+					<module ename="topDialog" cname="内部弹框">
+						<action id="2000200001" ename="awardDeal" cname="奖励操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="dialog-close-firstAward:首次竞猜奖励关闭;dialog-button-winning:中奖关闭;dialog-button-extraPoint:连续登录奖励提示关闭;dialog-button-winning:中奖提示;dialog-button-extraPoint:连续登录世界杯奖励;" from="20140530" to="-"/>
+						</action>
+						<action id="2000200001" ename="firstAward" cname="" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="dialog-button-firstAward:首次竞猜奖励;" from="20140530" to="-"/>
+						</action>
+					</module>
+					<module ename="rightPic" cname="右侧图片">
+						<action id="2000200001" ename="picClick" cname="图片点击" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="imgNews-0:第一张新闻图片;imgNews-1:第二张新闻图片;imgNews-2:第三张新闻图片;imgNews-3:第四张新闻图片;imgNews-4:第五张新闻图片;" from="20140530" to="-" /> 
+						</action>
+						<action id="2000200001" ename="picChange" cname="切换图片" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="clickType" type="norminal" desc="点击类型" value="dotNav:dot导航;" from="20140530" to="-" /> 
+						</action>
+					</module>
+					<module ename="bottomLink" cname="底部链接">
+						<action id="2000200001" ename="rigClick" cname="右侧点击" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="photo:临赛炫酷美图;video:临赛视频集锦;schedule:临赛分组赛程;" from="20140530" to="-" /> 
+					   </action>
+					</module>
+					<module ename="bottomLeftOuterLink" cname="底部左导流外链">
+						<action id="2000200001" ename="matchInfo" cname="比赛信息" from="20140530" to="-" status="fe-done" type="search" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="standings:世界杯积分榜;scorers:世界杯射手榜;hotWord-0:赛中热词0;hotWord-1:赛中热词1;hotWord-2:赛中热词2;hotWord-3:赛中热词3;hotWord-4:赛中热词4;hotWord-5:赛中热词5;" from="20140530" to="-" /> 
+					   </action>
+					</module>
+					 <module ename="bottomRightLink" cname="底部右外链">
+						<action id="2000200001" ename="bottomOuterLink" cname="比赛信息" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="weiboDis:微博讨论区;prediction:比赛预测;" from="20140530" to="-" /> 
+					   </action>
+					</module>
+					<module ename="littleLink" cname="小引导">
+						<action id="2000200001" ename="normalclick" cname="操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="openWorldcupGuide:打开世界杯小引导;closeWorldcupGuide:关闭世界杯小引导;" from="20140530" to="-" /> 
+					   </action>
+					</module>
+					<module ename="finish" cname="世界杯赛后版">
+						<action id="2000200001" ename="normalclick" cname="操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickType" type="norminal" desc="点击类型" value="sjb-finish-teamName:球队;sjb-finish-links:球队下面文字链接;sjb-finish-addFootball:添加足球卡片;sjb-finish-betRecord:我的竞猜记录;sjb-finish-betPrize:我的竞猜奖品;sjb-finish-overview:竞猜概览;sjb-finish-have:已猜中;sjb-finish-no:未猜中;sjb-finish-finalScore:最终积分;sjb-finish-address:邮寄地址" from="20140530" to="-" /> 
+					   </action>
+					</module>
+				</module>
+			</card>
+			<card ename="lottery" cname="彩票">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="10:彩票;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="10:彩票;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="topLeft" cname="彩票管理">
+					    <action id="2100000001" ename="addLottery" cname="添加彩种" from="20140604" to="-" status="fe-done" type="func" flag="use">
+							<attr key="cmd#lottery" type="norminal" desc="点击位置" value="add:增加彩种;#1:双色球;2:大乐透;3:江西时时彩;4:十一运夺金;5:竞彩足球;" from="20140604" to="-" />
+						</action>
+						<action id="2100000001" ename="deleteLottery" cname="删除彩种" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="cmd#lottery" type="norminal" desc="点击类型" value="del:删除彩种;#1:双色球;2:大乐透;3:江西时时彩;4:十一运夺金;5:竞彩足球;" from="20140604" to="-" />
+						</action>
+						<action id="2100000001" ename="submitClick" cname="确定按钮点击" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="submitType" type="norminal" desc="操作类型" value="btnOk:确定按钮;" from="20140604" to="-" />
+						</action>
+					</module>
+					<module ename="top" cname="顶部">
+						<action id="2100100001" ename="lotteryHeadNoneClick" cname="无外链点击" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="1:双色球;2:大乐透;3:江西时时彩;4:十一运夺金;5:竞彩足球;mngrbtn:管理按钮;refresh:刷新余额;showbalance:展现余额;" from="20140604" to="-" />
+						</action>
+						<action id="2100100001" ename="beauty" cname="外链点击" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							 <attr key="chargeType" type="norminal" desc="点击类型" value="mylottery:我的彩票;recharge:充值;withdraw:提现;" from="20140604" to="-" />
+						</action>
+						<action id="page-card-tpl-lottery" ename="duihuan" cname="彩金卡兑换" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							 <attr key="xpath" type="norminal" desc="点击类型" value="div2-div2-span2-div2-span2-a3:彩金卡兑换;" from="20140604" to="-" />
+						</action>
+					</module>
+					<module ename="other" cname="其他">
+					    <action id="2100200001" ename="lotteryContentOuterClick1" cname="双色球外部链接" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="lotteryNo#opType" type="norminal" desc="点击类型" value="1:双色球;#betbtn:选号投注;hemai:参与合买;elselink:其他链接;" from="20140604" to="-" />
+						</action>
+						<action id="page-card-tpl-lottery" ename="lotteryWordnewsOuterClick1" cname="彩票文字新闻外部链接" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div2-div4-p-a:第一条新闻外链;div2-div4-p2-a:第二条新闻外链;div2-div4-p3-a:第三条新闻外链;div2-div4-p4-a:第四条新闻外链;div2-div4-p5-a:第五条新闻外链;div2-div4-p6-a:第六条新闻外链;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotteryContentOuterClick2" cname="大乐透外部链接" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="lotteryNo#opType" type="norminal" desc="点击类型" value="2:大乐透;#betbtn:选号投注;hemai:参与合买;elselink:其他链接;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotteryContentOuterClick3" cname="江西时时彩外部链接" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="lotteryNo#opType" type="norminal" desc="点击类型" value="3:江西时时彩;#betbtn:选号投注;hemai:参与合买;elselink:其他链接;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotteryContentOuterClick4" cname="十一运夺金外部链接" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="lotteryNo#opType" type="norminal" desc="点击类型" value="4:十一运夺金;#betbtn:选号投注;hemai:参与合买;elselink:其他链接;" from="20140604" to="-" />
+						</action>    
+						<action id="2100200001" ename="lotteryContentOuterClick5" cname="竞彩足球外部链接" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="lotteryNo#opType" type="norminal" desc="点击类型" value="5:竞彩足球;#betbtn:选号投注;hemai:参与合买;elselink:其他链接;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotterContentDeal6" cname="双色球内部功能操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							 <attr key="lotteryNo#dealType" type="norminal" desc="点击类型" value="1:双色球;#seeresult:查看开奖结果;selectbetdate:选择投注日期;rollbetlist:滚动投注列表;selectgametype:选择玩法;selectresultdate:选择开奖日期;rollresultlist:滚动开奖列表;seebetlist:返回投注页面;winnotice:中奖消息;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotterContentDeal7" cname="大乐透内部功能操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							 <attr key="lotteryNo#dealType" type="norminal" desc="点击类型" value="2:大乐透;#seeresult:查看开奖结果;selectbetdate:选择投注日期;rollbetlist:滚动投注列表;selectgametype:选择玩法;selectresultdate:选择开奖日期;rollresultlist:滚动开奖列表;seebetlist:返回投注页面;winnotice:中奖消息;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotterContentDeal8" cname="江西时时彩内部功能操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							 <attr key="lotteryNo#dealType" type="norminal" desc="点击类型" value="3:江西时时彩;#seeresult:查看开奖结果;selectbetdate:选择投注日期;rollbetlist:滚动投注列表;selectgametype:选择玩法;selectresultdate:选择开奖日期;rollresultlist:滚动开奖列表;seebetlist:返回投注页面;winnotice:中奖消息;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotterContentDeal9" cname="十一运夺金内部功能操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							 <attr key="lotteryNo#dealType" type="norminal" desc="点击类型" value="4:十一运夺金;#seeresult:查看开奖结果;selectbetdate:选择投注日期;rollbetlist:滚动投注列表;selectgametype:选择玩法;selectresultdate:选择开奖日期;rollresultlist:滚动开奖列表;seebetlist:返回投注页面;winnotice:中奖消息;" from="20140604" to="-" />
+						</action>
+						<action id="2100200001" ename="lotterContentDeal10" cname="竞彩足球内部功能操作" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							 <attr key="lotteryNo#dealType" type="norminal" desc="点击类型" value="5:竞彩足球;#seeresult:查看开奖结果;selectbetdate:选择投注日期;rollbetlist:滚动投注列表;selectgametype:选择玩法;selectresultdate:选择开奖日期;rollresultlist:滚动开奖列表;seebetlist:返回投注页面;winnotice:中奖消息;" from="20140604" to="-" />
+						</action>
+					</module>
+				</module>
+			</card>
+			<card ename="stock" cname="股票">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="leftClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="12:股票;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="12:股票;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="top" cname="顶部">
+						<action id="3000000001" ename="addStock" cname="添加股票" from="20140402" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="类型" value="add:添加股票;" from="20140402" to="-" /> 
+						</action>
+						<action id="3000000001" ename="refreshStock" cname="股票" from="20140402" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击位置" value="refresh:刷新;" from="20140402" to="-" />
+						</action>
+						<action id="3000000001" ename="manageStock" cname="股票管理" from="20140402" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击位置" value="btnOK:股票管理;" from="20140402" to="-" />
+						</action> 
+					</module>
+					<module ename="content" cname="内容">
+						<action id="3000000001" ename="stockInfo" cname="信息" from="20140402" to="-" status="fe-done" type="search" flag="use">
+							<attr key="opType" type="norminal" desc="类型" value="stock:股票链接;" from="20140402" to="-" /> 
+						</action>
+						<action id="3000000001" ename="stockNews" cname="股票" from="20140402" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="opType" type="norminal" desc="点击位置" value="news:新闻;" from="20140402" to="-" />
+						</action>
+					</module>
+				</module>
+			</card>
+			<card ename="hightest" cname="高考">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="11:高考;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="11:高考;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="top" cname="左边高考资料">
+						<action id="2200000001" ename="lotteryHeadNoneClick" cname="外链点击" from="20140530" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="clickLink:点击链接;" from="20140604" to="-" />
+						</action>
+						<action id="2200000001" ename="scroll" cname="滚动" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							 <attr key="opType" type="norminal" desc="点击类型" value="scrollInfo:视频信息;" from="20140604" to="-" />
+						</action>
+						<action id="2200000001" ename="tab" cname="Tab" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							 <attr key="opType" type="norminal" desc="点击类型" value="clickTab:切换;" from="20140604" to="-" />
+						</action>
+					</module>
+					<module ename="other" cname="小度机器人">
+					    	<action id="2200000001" ename="sendAskInfo" cname="发送提问信息" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="clickSend:点击发送按钮;" from="20140604" to="-" />
+						</action>
+						<action id="2200000001" ename="robotScrollInfo" cname="滚动信息" from="20140530" to="-" status="fe-done" type="func" flag="use">
+							<attr key="opType" type="norminal" desc="点击类型" value="scrollRobot:滚动机器人;" from="20140604" to="-" />
+						</action>
+					</module>
+				</module>
+			</card>
+			<card ename="youxi" cname="游戏">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="13:游戏;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="13:游戏;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+					<module ename="head" cname="头部按钮">
+						<action id="page-card-tpl-youxi" ename="youxiheadclick" cname="头部按钮点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div-div-a:棋牌游戏;div-div-div-a2:网页游戏;div-div-div-a3:小游戏;div-div-div2-a:特权礼包;div-div-div2-a2:我的游戏;div3-div-div2-a:返回游戏;" from="20140815" to="-" />
+						</action>
+					</module>
+					<module ename="webgame" cname="网页游戏">
+						<action id="page-card-tpl-youxi" ename="webgameclick" cname="网页游戏点击" from="20140815" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-ul-li-div-div-a:开始游戏;div-div-div-div-div-ul-li-div-a:游戏大图;" from="20140815" to="-" />
+						</action>
+						<action id="page-card-tpl-youxi" ename="webgamenextclick" cname="网页游戏翻页点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div2-div2-a4:下一页;div-div2-div-div2-div2-a:上一页;" from="20140815" to="-" />
+						</action>
+					</module>
+					<module ename="othergame" cname="小游戏和棋牌游戏">
+						<action id="page-card-tpl-youxi" ename="othergameclick" cname="小游戏和棋牌游戏点击" from="20140815" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-ul-li-div-a:开始游戏;" from="20140815" to="-" />
+						</action>
+					</module>
+					<module ename="mygame" cname="我的游戏">
+						<action id="page-card-tpl-youxi" ename="mygameclick" cname="我的游戏点击" from="20140815" to="-" status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-ul-li-div-div-a:开始游戏或重新选服;" from="20140815" to="-" />
+						</action>
+					</module>
+					<module ename="coupon" cname="特权礼包">
+						<action id="page-card-tpl-youxi" ename="couponclick" cname="特权礼包点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-ul-li-div-div-div:特权礼包大图;div-div-div-div-div-ul-li-div-div-div-div:特权礼包标题;div-div-div-div-div-ul-li-div-div-div-a:领取查看;div-div-div-div-span:复制;div-div-a:关闭浮层;div-div-div-div:使用说明;" from="20140815" to="-" />
+						</action>
+						<action id="page-card-tpl-youxi" ename="couponclicklink" cname="特权礼包外链" from="20140815" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-a:立即使用;" from="20140815" to="-" />
+						</action>
+						<action id="page-card-tpl-youxi" ename="tabclick" cname="特权礼包tab点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div2-div2-div-a:可领礼包;div2-div2-div-a2:我的特权;" from="20140815" to="-" />
+						</action>
+					</module>
+				</module>
+			</card>
+			<card ename="videocard" cname="视频卡片">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140925" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="15:video;" from="20140925" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140925" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="15:video;" from="20140925" to="-" /> 
+					</action>
+				</module>
+				<module ename='content' cname="内部">
+				   <module ename='leshicontent' cname="乐视视频内部">
+					<module ename="head" cname="头部按钮">
+						<action id="page-card-tpl-video-leshi" ename="videoheadclick" cname="头部按钮点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div-a:热门;div-div-a2:综艺;div-div-a3:电视剧;div-div-a4:影视;div-div-a5:vip;div-div-a6:卡通;" from="20140815" to="-" />
+						</action>
+					</module>
+					<module ename="hotcontent" cname="卡片内容" >
+						<action id="page-card-tpl-video-leshi" ename="bigimg" cname="大图点击" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-div-a:图片;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-leshi" ename="imgbtn" cname="翻页按钮" from="20140925" to='-' status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div-div-div-a:前一个;div-div2-div-div-div-div-a2:后一个;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-leshi" ename="bigdes" cname="大图描述" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-div-a:大图描述;div-div-div-div-div-div-div-div-a:中图描述;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-leshi" ename="smallimg" cname="小图点击" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-a:小图点击;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-leshi" ename="smalldes" cname="小图描述" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div2-div-div-a3:小图描述1;div-div2-div-div2-div-div2-a3:小图描述2;div-div2-div2-div2-div-div-a3:小图描述3;div-div2-div2-div2-div-div2-a3:小图描述4;div-div2-div3-div2-div-div-a3:小图描述5;div-div2-div3-div2-div-div2-a3:小图描述6;div-div2-div4-div2-div-div-a2:小图描述7;div-div2-div4-div2-div-div2-a2:小图描述8;div-div2-div4-div2-div-div3-a2:小图描述9;div-div2-div5-div2-div-div-a2:小图描述10;div-div2-div5-div2-div-div2-a2:小图描述11;div-div2-div5-div2-div-div3-a2:小图描述12;div-div2-div6-div2-div-div-a2:小图描述13;div-div2-div6-div2-div-div2-a2:小图描述14;div-div2-div6-div2-div-div3-a2:小图描述15;div-div2-div7-div2-div-div-a2:小图描述16;div-div2-div7-div2-div-div2-a2:小图描述17;div-div2-div7-div2-div-div3-a2:小图描述18;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-leshi" ename="wordlink" cname="文字连接" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-p-a:文字连接;" from="20140925" to="-" />
+						</action>
+					</module>
+				   </module>
+				   <module ename='aiqiyicontent' cname="爱奇艺视频内部">
+				     <module ename="head" cname="头部按钮">
+						<action id="page-card-tpl-video-aiqiyi" ename="videoheadclick" cname="头部按钮点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div-a:热门;div-div-a2:综艺;div-div-a3:电视剧;div-div-a4:影视;div-div-a5:vip;div-div-a6:卡通;" from="20140815" to="-" />
+						</action>
+					</module>
+					<module ename="hotcontent" cname="卡片内容" >
+						<action id="page-card-tpl-video-aiqiyi" ename="bigimg" cname="大图点击" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-div-a:图片;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-aiqiyi" ename="bigdes" cname="大图描述" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-div-a:大图描述;div-div-div-div-div-div-div-div-a:中图描述;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-aiqiyi" ename="imgbtn" cname="翻页按钮" from="20140925" to='-' status="fe-done" type="func" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div-div-div-a:前一个;div-div2-div-div-div-div-a2:后一个;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-aiqiyi" ename="smallimg" cname="小图点击" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-div-a:小图点击;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-aiqiyi" ename="smalldes" cname="小图描述" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div2-div-div-a3:小图描述1;div-div2-div-div2-div-div2-a3:小图描述2;div-div2-div2-div2-div-div-a3:小图描述3;div-div2-div2-div2-div-div2-a3:小图描述4;div-div2-div3-div2-div-div-a3:小图描述5;div-div2-div3-div2-div-div2-a3:小图描述6;div-div2-div4-div2-div-div-a2:小图描述7;div-div2-div4-div2-div-div2-a2:小图描述8;div-div2-div4-div2-div-div3-a2:小图描述9;div-div2-div5-div2-div-div-a2:小图描述10;div-div2-div5-div2-div-div2-a2:小图描述11;div-div2-div5-div2-div-div3-a2:小图描述12;div-div2-div6-div2-div-div-a2:小图描述13;div-div2-div6-div2-div-div2-a2:小图描述14;div-div2-div6-div2-div-div3-a2:小图描述15;div-div2-div7-div2-div-div-a2:小图描述16;div-div2-div7-div2-div-div2-a2:小图描述17;div-div2-div7-div2-div-div3-a2:小图描述18;" from="20140925" to="-" />
+						</action>
+						<action id="page-card-tpl-video-aiqiyi" ename="wordlink" cname="文字连接" from="20140925" to='-' status="fe-done" type="outlink" flag="use">
+							<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-p-a:文字连接;" from="20140925" to="-" />
+						</action>
+					</module>
+				   </module>
+				</module>
+			</card>
+			<card ename="treasure" cname="宝箱">
+		         <module ename="content" cname="内部">
+                    <action id="5131000001" ename="detail" cname="查看详情" from="20140906" to="-" status="fe-done" type="outlink" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="skipdetail:跳转中间页" from="20130111" to="-" />
+                    </action>
+                    <action id="5132000001" ename="close" cname="关闭按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="close:关闭" from="20130111" to="-" />
+                    </action>
+                    <action id="5133000001" ename="sign" cname="报名按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="signsuccess:报名成功;signfailed:报名失败;skipdetail:已经报名跳转到中间页" from="20130111" to="-" />
+                    </action>
+                    <action id="5134000001" ename="treaShow" cname="宝箱按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="btnextend:展开按钮;" from="20130111" to="-" />
+                    </action>
+                     <action id="5134000001" ename="treaShow" cname="提示按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                         <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="tipsclick:点击tips按钮;" from="20130111" to="-" />
+                     </action>
+                     <action id="5134000001" ename="treaShow" cname="提示按钮关闭" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                         <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="tipsclose:关闭tips;" from="20130111" to="-" />
+                     </action>
+                     <action id="5135000001" ename="frommiddle" cname="宝箱中间页来的用户" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                         <attr key="msgtype" type="norminal" desc="用户类型" value="from_login:从登陆来的用户;" from="20130111" to="-" />
+                     </action>
+                     <action id="5135000001" ename="frommiddle" cname="宝箱中间页来的用户" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                         <attr key="msgtype" type="norminal" desc="用户类型" value="from_reg:从注册来的用户;" from="20130111" to="-" />
+                     </action>
+                     <action id="5135000001" ename="frommiddle" cname="宝箱中间页来的用户" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                         <attr key="msgtype" type="norminal" desc="用户类型" value="from_normal:普通从中间页来的用户;" from="20130111" to="-" />
+                     </action>
+                     <action id="5136000001" ename="gotoweibo" cname="去微博页" from="20140906" to="-" status="fe-done" type="outlink" flag="use">
+                         <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="skipweibo:跳转到微博活动页" from="20130111" to="-" />
+                     </action>
+                     <action id="5137000001" ename="choose" cname="用户对于团购tips的选择" from="20140906" to="-" status="fe-done" type="outlink" flag="use">
+                         <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="subscribe:添加团购卡片;cancel:取消添加;refresh:刷新页面;" from="20130111" to="-" />
+                     </action>
+                </module>
+				<module ename="middle" cname="中间页">
+					<action id="5121100001" ename="toindex" cname="百度首页" from="20140906" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="skipindex:跳转到百度首页" from="20130111" to="-" />
+					</action>
+					<action id="5121200001" ename="myprecoius" cname="我的奖品按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="show:展开我的奖品" from="20130111" to="-" />
+					</action>
+					<action id="5121300001" ename="user" cname="用户按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="show:展开我的可选项" from="20130111" to="-" />
+					</action>
+					<action id="5121400001" ename="logset" cname="账号设置按钮" from="20140906" to="-" status="fe-done" type="outlink" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="userset:账户设置按钮;" from="20130111" to="-" />
+					</action>
+					<action id="5121500001" ename="logout" cname="退出账号按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="logout:退出按钮;" from="20130111" to="-" />
+					</action>
+					<action id="5121600001" ename="login" cname="登录按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="login:用户登录;" from="20130111" to="-" />
+					</action>
+                    <action id="5121600001" ename="login" cname="登录按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="tiebalog:下方的贴吧登录;" from="20130111" to="-" />
+                    </action>
+					<action id="5121700001" ename="register" cname="注册按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="register:用户注册;" from="20130111" to="-" />
+					</action>
+					<action id="5121800001" ename="killclick" cname="中央秒杀按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="kill:用户秒杀;sign:用户登录;skip:用户跳转首页;lotter:用户点击领取彩金;logoLink:用户点击;" from="20130111" to="-" />
+					</action>
+					<action id="5121900001" ename="shareclick" cname="分享按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="share:分享" from="20130111" to="-" />
+					</action>
+					<action id="5122000001" ename="moreclick" cname="更多获奖者按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="more:更多" from="20130111" to="-" />
+					</action>
+					<action id="5123000001" ename="useinfoclick" cname="使用说明按钮" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="点击按钮的类型" value="detail:查看说明" from="20130111" to="-" />
+					</action>
+					<action id="5124000001" ename="sharefrm" cname="回流地址" from="20140906" to="-" status="fe-done" type="func" flag="use">
+						<attr key="msgtype" type="norminal" desc="来源名称" value="tsina:新浪微博;qzone:qq空间;tqq:腾讯微博;renren:人人网;hi:百度空间;tieba:百度贴吧;weixin:微信;" from="20130111" to="-" />
+					</action>
+                    <action id="5136000001" ename="discuss" cname="点击官方贴吧" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="进入贴吧" value="gototieba:点击进入官方贴吧;" from="20130111" to="-" />
+                    </action>
+                    <action id="5125000001" ename="goto" cname="活动页logo跳转" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="gotonuomi:用户跳转到糯米网;" from="20130111" to="-" />
+                    </action>
+                    <action id="5126000001" ename="tutorial" cname="活动页教程相关的点击" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="newman:新人必读;howto:如何答题;vote:进入投票贴;" from="20130111" to="-" />
+                    </action>
+                    <action id="5127000001" ename="share" cname="分享相关的点击" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="msgtype" type="norminal" desc="点击按钮的类型" value="copy:点击了复制链接按钮;tsina:点击了新浪按钮;tieba:点击了贴吧按钮;weixin:点击了微信按钮;qzone:点击了QQ空间按钮;more:点击了更多的分享按钮;moremaster:点击了邀请达人的更多按钮;glue:点击了复制链接的按钮;" from="20130111" to="-" />
+                    </action>
+                    <action id="5138000001" ename="notifyClick" cname="开启浏览器提醒点击" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                    </action>
+                    <action id="5139000001" ename="weiboClick" cname="微博广告位的点击" from="20140906" to="-" status="fe-done" type="func" flag="use">
+                    </action>
+				</module>
+			</card>
+			<card ename="searchBox" cname="搜索框">
+				<action id="1200200001" ename="pc" cname="pc版" from="20120709" to="-" status="ubs-edited" type="other" flag="use">
+					<attr key="opType#terminal" type="norminal" desc="首页版本" value="click:点击触发;#PC:PC;" from="20120822" to="-" />
+				</action>
+			</card>
+			<card ename="other" cname="其他">
+				<action id="1200100001" ename="setpage" cname="设为首页" from="20120709" to="-" status="ubs-edited" type="other" flag="use">
+					<attr key="category" type="norminal" desc="首页版本" value="setpage:设为首页;" from="20120822" to="-" />
+				</action>
+				<action id="1200100001" ename="searchRelateLink" cname="搜索框上方链接" from="20120709" to="-" status="ubs-edited" type="other" flag="use">
+					<attr key="category" type="norminal" desc="" value="tjnews:新闻;tjtieba:贴吧;tjzhidao:知道;tjmp3:MP3;tjimg:图片;tjvideo:视频;tjmap:地图;tjhi:空间;tjbaike:百科;tjwenku:文库;tjmore:更多;tjnuomi:糯米团;tjbang:风云榜;tjtuiguang:百度推广;" from="20120822" to="-" />
+				</action>
+				<action id="1200100001" ename="topright" cname="右上方" from="20120709" to="-" status="ubs-edited" type="other" flag="use">
+					<attr key="category" type="norminal" desc="首页版本" value="tjucentmouseover:个人中心悬浮;tjsetmouseover:设置悬浮;tjucentcol:我的收藏;tjucentcal:我的日历;tjucenthis:浏览记录;tjtoxman:完整版;tjtolite:极简版;tj_set_home:把百度设为首页;feedback:反馈;tutorial:首页教程;skin:换肤;msg:消息;lite:显示卡片;tjsetting:搜索设置;tjlogout:退出登录;" from="20120822" to="-" />
+				</action>
+			</card>
+            <card ename="recommend" cname="推荐">
+				<module ename="tab" cname="tab">
+					<action id="1100000001" ename="normalClick" cname="左键点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="clickTab" type="norminal" desc="" value="18:推荐;" from="20140201" to="-" /> 
+					</action>
+					<action id="1100000002" ename="wheelClick" cname="滚轮点击" from="20140201" to="-" status="fe-done" type="func" flag="use">
+						<attr key="wheelTab" type="norminal" desc="" value="18:推荐;" from="20140201" to="-" /> 
+					</action>
+				</module>
+				<module ename="content" cname="内部">
+                    <action id="page-card-tpl-recommend" ename="navclick" cname="分类导航点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+                        <attr key="xpath" type="norminal" desc="点击类型" value="div-ul-li-a:第一个分类;div-ul-li2-a:第二个分类;div-ul-li3-a:第三个分类;div-ul-li4-a:第四个分类;div-ul-li5-a:第五个分类;div-ul-li6-a:换一换;" from="20140815" to="-" />
+                    </action>
+                    <action id="page-card-tpl-recommend" ename="linkclick" cname="链接点击" from="20140815" to="-" status="fe-done" type="search" flag="use">
+                        <attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-ul-li-a:点击;" from="20140815" to="-" />
+                    </action>
+				</module>
+			</card>
+            <card ename="tipsplus" cname="提醒系统">
+                <module ename="topmenu" cname="页面右上角提醒">
+                    <action id="1400000001" ename="normalClick" cname="关闭点击" from="20140201" to="-" status="fe-done" type="func" flag="use"> 
+                        <attr key="clickType" type="norminal" desc="" value="2000:宝箱;2001:换肤;2002:消息;2003:设为首页;2004:用户名;" from="20140201" to="-" /> 
+                    </action>
+                </module>
+                <module ename="newcard" cname="卡片设置按钮处提醒">
+                    <action id="1400000001" ename="normalClick" cname="点击" from="20140201" to="-" status="fe-done" type="func" flag="use"> 
+                        <attr key="cardId#clickType" type="norminal" desc="" value="1:导航;2:新闻;3:音乐;4:提醒;5:团购;6:nba;7:星座;8:足球;10:彩票;12:股票;13:游戏;#0099:点击实体;close:关闭;#0099:关闭tips;" from="20140201" to="-" /> 
+                    </action>
+                </module>
+                <module ename="cardsub" cname="第三方订阅日志统计">
+                    <action id="1400000001" ename="normalClick" cname="点击" from="20140201" to="-" status="fe-done" type="func" flag="use"> 
+                        <attr key="cardId#clickType" type="norminal" desc="" value="13#cardsubclose:游戏弹窗关闭;13#cardsubok:游戏弹窗确认添加游戏卡片" from="20140201" to="-" /> 
+                    </action>
+                </module>
+            </card>
+            <card ename="activity" cname="明星换肤">
+                <module ename="activityskin" cname="明星换肤模块">
+                    <action id="4010200001" ename="activityclick" cname="分享浮层点击"  from="20140201" to="-" status="fe-done" type="func" flag="use" >
+                        <attr key="clickType" type="norminal" desc="点击分享" value="activityskinlogin:右上角登陆;activityskinpartake:立即参与;activityskintab:预览浮层tab点击;activityskinitem:预览浮层缩略图点击;activityskinsethome:设置首页皮肤点击;activityskingoback:返回活动页点击;activityskinoutlink:了解更多点击;activityskinpeeler:马上换肤点击" from="20140414" to="-" />
+                    </action>
+                    <action id="4010200001" ename="activityclick-stars" cname="明星列表点击">
+                        <attr key="clickType#param" type="norminal" desc="明星点击" value="activityskinexperience#starsid1000:杨幂;activityskinexperience#starsid1006:刘诗诗;activityskinexperience#starsid1005:胡歌;activityskinexperience#starsid1001:李易峰;activityskinexperience#starsid1010:邓紫起;activityskinexperience#starsid1004:赵丽颖;activityskinexperience#starsid1007:马天宇;activityskinexperience#starsid1002:陈晓;activityskinexperience#starsid1009:程天宇;activityskinexperience#starsid1003:柳岩;activityskinexperience#starsid1008:吴奇隆" />
+                    </action>
+                    <action id="4010200001" ename="activityclick-stars-por" cname="明星头像点击">
+                        <attr key="clickType#param" type="norminal" desc="明星头像点击" value="activityskinexperiencea#starsid1000:杨幂;activityskinexperiencea#starsid1006:刘诗诗;activityskinexperiencea#starsid1005:胡歌;activityskinexperiencea#starsid1001:李易峰;activityskinexperiencea#starsid1010:邓紫起;activityskinexperiencea#starsid1004:赵丽颖;activityskinexperiencea#starsid1007:马天宇;activityskinexperiencea#starsid1002:陈晓;activityskinexperiencea#starsid1009:程天宇;activityskinexperiencea#starsid1003:柳岩;activityskinexperiencea#starsid1008:吴奇隆" />
+                    </action>
+                </module>
+                <module ename="activitysuperui" cname="明星换肤-组件日志" >
+                    <action id="4010310001" ename="activitydialog" cname="弹窗浮层弹窗组件"  from="20140201" to="-" status="fe-done" type="func" flag="use" >
+                        <attr key="clickType" type="norminal" desc="点击类型" value="activityskinvideodialogclose:关闭视频浮层;indexskinLotterydialogclose:抽奖浮层关闭" from="20140414" to="-" />
+                    </action>
+                    <action id="4010311011" ename="activityshare" cname="分享浮层分享组件"  from="20140201" to="-" status="fe-done" type="func" flag="use" >
+                        <attr key="clickType" type="norminal" desc="点击分享" value="indexactivityskinshareshare:点击分享;" from="20140414" to="-" />
+                    </action>
+                </module>
+            </card>
+            <card ename="message" cname="结果页消息">
+                <module ename="button" cname="消息按钮">
+                    <action id="1500000001" ename="normalClick" cname="点击" from="20140201" to="-" status="fe-done" type="func" flag="use"> 
+                        <attr key="clickType" type="norminal" desc="" value="button:消息按钮点击" from="20140201" to="-" /> 
+                    </action>
+                </module>
+                <module ename="content" cname="消息内容点击">
+                    <action id="1500000001" ename="normalClick" cname="点击" from="20140201" to="-" status="fe-done" type="other" flag="use"> 
+                        <attr key="clickType" type="norminal" desc="" value="bdHongbao:百度红包;bdHome:个人中心;bdIndem:百度保障;bdKoubei:百度口碑;txwb:腾讯微博;bdzoom:;bdmsg:消息;bdiknow:百度知道;bdpics:百度图片;mail126:126邮件通知;mail163:163邮件通知;mailyeah:;bdtieba:百度贴吧;sinawb:新浪微博;yidongwb:移动微博;sinablog:新浪博客;" from="20140201" to="-" /> 
+                    </action>
+                    <action id="1500000001" ename="normalClick" cname="点击" from="20140201" to="-" status="fe-done" type="func" flag="use"> 
+                        <attr key="clickType" type="norminal" desc="" value="clear:清空消息;setting:消息设置;" from="20140201" to="-" /> 
+                    </action>
+                </module>
+            </card>
+		</page>
+	</click>
+</NSmLogData>

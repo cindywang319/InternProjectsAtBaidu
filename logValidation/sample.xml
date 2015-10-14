@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Login> 
+    <City> 
+        <C Text="西安" Value="0"></C> 
+        <C Text="延安" Value="1"></C> 
+        <C Text="宝鸡" Value="2"></C> 
+    </City> 
+    <student> 
+        <W Text="学生1" Value="0"></W> 
+        <W Text="学生2" Value="1"></W> 
+    </student> 
+</Login>

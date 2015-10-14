@@ -1,0 +1,1073 @@
+loadData({
+	"pv": 125572,
+	"clk": [ 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div",
+			"clk_num": "44"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2-div2-div-a2",
+			"clk_num": "694"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2-div2-div-a3",
+			"clk_num": "24"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div2",
+			"clk_num": "26"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div2",
+			"clk_num": "99"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div10-div2-a2",
+			"clk_num": "25"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div10-div2-a4",
+			"clk_num": "15"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2",
+			"clk_num": "59"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div10-div2-a5",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div2-div2-div-a",
+			"clk_num": "98"
+		}, 
+		{
+			"xpath": "div",
+			"clk_num": "17"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div-div2-a-img",
+			"clk_num": "282"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2-div-em",
+			"clk_num": "14"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div2-div2",
+			"clk_num": "14"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2-a4",
+			"clk_num": "188"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2-div-em",
+			"clk_num": "49"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2-a5",
+			"clk_num": "275"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2-a7",
+			"clk_num": "316"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div2-div-div3-div2-a4",
+			"clk_num": "27"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div2-div-div3-div2-a5",
+			"clk_num": "35"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div-div-a2",
+			"clk_num": "438"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div-a",
+			"clk_num": "292"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2-a",
+			"clk_num": "45"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div2-div2-div-a",
+			"clk_num": "122"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div2-div2-div",
+			"clk_num": "33"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div2",
+			"clk_num": "215"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div8-div2-a4",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div8-div2-a5",
+			"clk_num": "45"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div2-div2-div-a2",
+			"clk_num": "150"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div5-div2-a5",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div-div-a2",
+			"clk_num": "681"
+		}, 
+		{
+			"xpath": "div2-div-em",
+			"clk_num": "307"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div2-div2-div",
+			"clk_num": "36"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2-a2",
+			"clk_num": "34"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2-a5",
+			"clk_num": "303"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div2-div-div3-div",
+			"clk_num": "21"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2-a6",
+			"clk_num": "473"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2-a7",
+			"clk_num": "216"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2",
+			"clk_num": "34"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div-a2",
+			"clk_num": "3292"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2-a2-em",
+			"clk_num": "62"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div2-p4-a",
+			"clk_num": "34"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-a-em",
+			"clk_num": "25"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div",
+			"clk_num": "38"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div2-div2-div",
+			"clk_num": "54"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div2-p-a",
+			"clk_num": "370"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div9-div2-a5",
+			"clk_num": "28"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2-div-em",
+			"clk_num": "17"
+		}, 
+		{
+			"xpath": "div-a",
+			"clk_num": "467"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div2-div2-div",
+			"clk_num": "122"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div-div4-a2",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div10-div2-em",
+			"clk_num": "15"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2-a-em",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2-a",
+			"clk_num": "27"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2-a-img",
+			"clk_num": "15"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div-div5-a",
+			"clk_num": "79"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div2-p-a",
+			"clk_num": "36"
+		}, 
+		{
+			"xpath": "div-div-a4-em4",
+			"clk_num": "107"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2-a2-em",
+			"clk_num": "26"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div2-p3-a",
+			"clk_num": "67"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div2-div-div-a2",
+			"clk_num": "105"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div2-div-div-a3",
+			"clk_num": "781"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-div-em",
+			"clk_num": "58"
+		}, 
+		{
+			"xpath": "div-div-a3-em",
+			"clk_num": "56"
+		}, 
+		{
+			"xpath": "div2",
+			"clk_num": "143"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div",
+			"clk_num": "477"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div2-p2-a",
+			"clk_num": "38"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div2-div-div3-div2-em",
+			"clk_num": "35"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2-div2-div",
+			"clk_num": "55"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div-div5-a",
+			"clk_num": "120"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2-a5",
+			"clk_num": "265"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2-a6",
+			"clk_num": "476"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div2-p3",
+			"clk_num": "24"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2-a7",
+			"clk_num": "155"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div4-a2",
+			"clk_num": "95"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div4-a3",
+			"clk_num": "34"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div-div",
+			"clk_num": "318"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div6-div2-a4",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div6-div2-a5",
+			"clk_num": "17"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div6-div2-a7",
+			"clk_num": "14"
+		}, 
+		{
+			"xpath": "div2-div2-div2",
+			"clk_num": "69"
+		}, 
+		{
+			"xpath": "div2-div2-div3",
+			"clk_num": "114"
+		}, 
+		{
+			"xpath": "div2-div2-div4",
+			"clk_num": "68"
+		}, 
+		{
+			"xpath": "div2-div2-div5",
+			"clk_num": "99"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div2-div-div-a",
+			"clk_num": "143"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2-div-div-a2",
+			"clk_num": "163"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2-div-div-a3",
+			"clk_num": "319"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2-a2-img",
+			"clk_num": "26"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div2-p2",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div-div-a2",
+			"clk_num": "1787"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div5-a",
+			"clk_num": "1020"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div3-div2-a4",
+			"clk_num": "17"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div3-div2-a5",
+			"clk_num": "80"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2-div-em",
+			"clk_num": "30"
+		}, 
+		{
+			"xpath": "div-div-a2-em4",
+			"clk_num": "152"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div4-a",
+			"clk_num": "26"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div2-div-div-a",
+			"clk_num": "221"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div3-div",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div3-div2",
+			"clk_num": "68"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2-div-em",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div6-div2-a4",
+			"clk_num": "25"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div6-div2-a5",
+			"clk_num": "116"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div-div-a",
+			"clk_num": "38"
+		}, 
+		{
+			"xpath": "div-div-a-em4",
+			"clk_num": "178"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2-div-div-a",
+			"clk_num": "693"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div",
+			"clk_num": "37"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2",
+			"clk_num": "47"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div2",
+			"clk_num": "56"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2",
+			"clk_num": "60"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2-a2",
+			"clk_num": "26"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2-a4",
+			"clk_num": "96"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2-a5",
+			"clk_num": "139"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div4-div2-a7",
+			"clk_num": "191"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div2-p-a",
+			"clk_num": "233"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div2-div2-div-a2",
+			"clk_num": "374"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div2",
+			"clk_num": "29"
+		}, 
+		{
+			"xpath": "div-div-a2-em",
+			"clk_num": "25"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2-a-em",
+			"clk_num": "37"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div-div5-a",
+			"clk_num": "496"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2-div-em",
+			"clk_num": "27"
+		}, 
+		{
+			"xpath": "",
+			"clk_num": "66"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div-div4-a",
+			"clk_num": "14"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div2-div",
+			"clk_num": "94"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-a",
+			"clk_num": "40"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2-a2-img",
+			"clk_num": "14"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2-div2-div-a2",
+			"clk_num": "964"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2-div2-div-a3",
+			"clk_num": "24"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div-div2-a-img",
+			"clk_num": "2468"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div",
+			"clk_num": "277"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div",
+			"clk_num": "39"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2-div-div-a",
+			"clk_num": "801"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div6-div2-a5",
+			"clk_num": "28"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div2-div",
+			"clk_num": "398"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div2-p-a",
+			"clk_num": "362"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div-div-a2",
+			"clk_num": "472"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2-a",
+			"clk_num": "32"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div2",
+			"clk_num": "70"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2",
+			"clk_num": "52"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div2-a2-img",
+			"clk_num": "27"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2",
+			"clk_num": "49"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div6-div2-em",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div-div4-a2",
+			"clk_num": "34"
+		}, 
+		{
+			"xpath": "div2-div2-div",
+			"clk_num": "247"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div-div4-a3",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div2-div2-div-a2",
+			"clk_num": "331"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2",
+			"clk_num": "49"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div-div2-a-img",
+			"clk_num": "284"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div2-div2-div-a",
+			"clk_num": "88"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2-a4",
+			"clk_num": "70"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2-div-div-a2",
+			"clk_num": "140"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div4-div2-a5",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2-a5",
+			"clk_num": "99"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2-div-div-a3",
+			"clk_num": "517"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div2-div2-a7",
+			"clk_num": "167"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div4",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div5",
+			"clk_num": "20"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div2-p4-a",
+			"clk_num": "167"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div",
+			"clk_num": "238"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2",
+			"clk_num": "60"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div-div2-a2",
+			"clk_num": "27"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div-div2-a4",
+			"clk_num": "60"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div-div2-a5",
+			"clk_num": "69"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div-div2-a7",
+			"clk_num": "43"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div2",
+			"clk_num": "48"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2-a-em",
+			"clk_num": "46"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2-a4",
+			"clk_num": "132"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2-a5",
+			"clk_num": "193"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2-a7",
+			"clk_num": "190"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div9-div",
+			"clk_num": "19"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2-a4",
+			"clk_num": "76"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2-a5",
+			"clk_num": "353"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div2-p3-a",
+			"clk_num": "72"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div6-div2",
+			"clk_num": "54"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div-div2-a-img",
+			"clk_num": "4036"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div7-div2-a5",
+			"clk_num": "20"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div-div5-a",
+			"clk_num": "39"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2-div2-div-a",
+			"clk_num": "410"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div-div",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2-a2-em",
+			"clk_num": "24"
+		}, 
+		{
+			"xpath": "div-div-a5-em4",
+			"clk_num": "116"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2-div2-div-a",
+			"clk_num": "417"
+		}, 
+		{
+			"xpath": "div-div",
+			"clk_num": "169"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div2-div-div-a2",
+			"clk_num": "32"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div2-div-div-a3",
+			"clk_num": "66"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div-div2-a-img",
+			"clk_num": "206"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div2-p2-a",
+			"clk_num": "351"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div-div2",
+			"clk_num": "43"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2-div2-div",
+			"clk_num": "42"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div2-div",
+			"clk_num": "313"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div3-div2-a5",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div10-div2-a2-img",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div",
+			"clk_num": "46"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div2-div-div-a",
+			"clk_num": "1016"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div2-div2-div",
+			"clk_num": "56"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div2-div-div-a2",
+			"clk_num": "35"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-a-img",
+			"clk_num": "21"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div-div2-a4",
+			"clk_num": "36"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div2-div-div-a3",
+			"clk_num": "131"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div-div-div14-div2-a6",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div-div2-a5",
+			"clk_num": "57"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div-div2-a7",
+			"clk_num": "37"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div2-div2-a4",
+			"clk_num": "38"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div2-div2-a5",
+			"clk_num": "64"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div2-div2-a7",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div2-p3-a",
+			"clk_num": "19"
+		}, 
+		{
+			"xpath": "div-div-a3-em4",
+			"clk_num": "129"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div2-p4-a",
+			"clk_num": "26"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2-a-em",
+			"clk_num": "48"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div-div-div6-div2-a5",
+			"clk_num": "18"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div-div-div6-div2-a6",
+			"clk_num": "19"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div-div-div6-div2-a7",
+			"clk_num": "15"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div10-div",
+			"clk_num": "25"
+		}, 
+		{
+			"xpath": "div2-div-a",
+			"clk_num": "2470"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div-div-div-a",
+			"clk_num": "178"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div2-p",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div2-p2-a",
+			"clk_num": "20"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div8-div2-a5",
+			"clk_num": "98"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div8-div2-a6",
+			"clk_num": "151"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div",
+			"clk_num": "28"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div-div2-div",
+			"clk_num": "307"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div2",
+			"clk_num": "77"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div2-p3-a",
+			"clk_num": "30"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-a2",
+			"clk_num": "23"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2-em",
+			"clk_num": "26"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-a4",
+			"clk_num": "96"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-a5",
+			"clk_num": "140"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div-div2-a7",
+			"clk_num": "185"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div-div3-div2-div-em",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div-div2-p-a",
+			"clk_num": "101"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div7-div2-a4",
+			"clk_num": "15"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div7-div2-a5",
+			"clk_num": "33"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div2-p2-a",
+			"clk_num": "93"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2-a",
+			"clk_num": "36"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div7-div2-a-img",
+			"clk_num": "23"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div-div",
+			"clk_num": "19"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2-a-img",
+			"clk_num": "31"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div2-div",
+			"clk_num": "1760"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div2-div",
+			"clk_num": "183"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div2-p4-a",
+			"clk_num": "347"
+		}, 
+		{
+			"xpath": "div-div-a5-em",
+			"clk_num": "23"
+		}, 
+		{
+			"xpath": "div2-div",
+			"clk_num": "731"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div2-p2",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div2-div",
+			"clk_num": "676"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div4-div2-a-img",
+			"clk_num": "28"
+		}, 
+		{
+			"xpath": "div2-div2-div4-div3-div-div",
+			"clk_num": "340"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div6-div2-div-em",
+			"clk_num": "13"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div2-div",
+			"clk_num": "37"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div3-div2-div-em",
+			"clk_num": "33"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div-div-div-a",
+			"clk_num": "25"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div2-p3-a",
+			"clk_num": "342"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div3-div-div-div-div2-a2-em",
+			"clk_num": "19"
+		}, 
+		{
+			"xpath": "div2-div2-div2-div3-div-div2",
+			"clk_num": "28"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div3-div",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div8-div2-a-em",
+			"clk_num": "14"
+		}, 
+		{
+			"xpath": "div2-div-a2",
+			"clk_num": "5339"
+		}, 
+		{
+			"xpath": "div2-div-a3",
+			"clk_num": "8979"
+		}, 
+		{
+			"xpath": "div2-div2-div-div-div2-p2-a",
+			"clk_num": "177"
+		}, 
+		{
+			"xpath": "div2-div2-div-div2",
+			"clk_num": "148"
+		}, 
+		{
+			"xpath": "div2-div-a4",
+			"clk_num": "5256"
+		}, 
+		{
+			"xpath": "div2-div-a5",
+			"clk_num": "4928"
+		}, 
+		{
+			"xpath": "div2-div2-div3-div3-div-div-div6-div2-a-em",
+			"clk_num": "22"
+		}, 
+		{
+			"xpath": "div2-div-a6",
+			"clk_num": "108"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div5-div2-a4",
+			"clk_num": "20"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div5-div2-a5",
+			"clk_num": "23"
+		}, 
+		{
+			"xpath": "div2-div2-div-div3-div-div-div5-div2-a7",
+			"clk_num": "16"
+		}, 
+		{
+			"xpath": "div2-div2-div5-div-div-div-a",
+			"clk_num": "45"
+		}
+	]
+});

@@ -1,0 +1,36 @@
+<module ename="content" cname="内部">
+	<module ename="head" cname="头部按钮">
+		<action id="page-card-tpl-youxi" ename="youxiheadclick" cname="头部按钮点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+			<attr key="xpath" type="norminal" desc="点击类型" value="div-div-div-a:棋牌游戏;div-div-div-a2:网页游戏;div-div-div-a3:小游戏;div-div-div2-a-span2:特权礼包;div-div-div2-a-span:特权礼包icon;div-div-div2-a2-span:我的游戏icon;div-div-div2-a2-span2:我的游戏;div3-div-div2-a-span2:返回游戏;" from="20140815" to="-" />
+		</action>
+	</module>
+	<module ename="webgame" cname="网页游戏">
+		<action id="page-card-tpl-youxi" ename="webgameclick" cname="网页游戏点击" from="20140815" to="-" status="fe-done" type="outlink" flag="use">
+			<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-ul-li-div-div-a:开始游戏;div-div-div-div-div-ul-li-div-a-img:游戏大图;div-div-div-div-div-ul-li-div-a-div-div:游戏标题;div-div-div-div-div-ul-li-div-a-div-div-span:游戏星级;" from="20140815" to="-" />
+		</action>
+		<action id="page-card-tpl-youxi" ename="webgamenextclick" cname="网页游戏翻页点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+			<attr key="xpath" type="norminal" desc="点击类型" value="div-div2-div-div2-div2-a4:下一页;div-div2-div-div2-div2-a:上一页;" from="20140815" to="-" />
+		</action>
+	</module>
+	<module ename="othergame" cname="小游戏和棋牌游戏">
+		<action id="page-card-tpl-youxi" ename="othergameclick" cname="小游戏和棋牌游戏点击" from="20140815" to="-" status="fe-done" type="outlink" flag="use">
+			<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-ul-li-div-a-div:游戏名称;div-div-div-div-ul-li-div-a:开始游戏空白区域;div-div-div-div-ul-li-div-a-div-span:游戏星级;div-div-div-div-ul-li-div-a-span:更多游戏文字和开始游戏按钮;div-div-div-div-ul-li-div-a-img:游戏icon;" from="20140815" to="-" />
+		</action>
+	</module>
+	<module ename="mygame" cname="我的游戏">
+		<action id="page-card-tpl-youxi" ename="mygameclick" cname="我的游戏点击" from="20140815" to="-" status="fe-done" type="outlink" flag="use">
+			<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-ul-li-div-div-a:开始游戏或重新选服;" from="20140815" to="-" />
+		</action>
+	</module>
+	<module ename="coupon" cname="特权礼包">
+		<action id="page-card-tpl-youxi" ename="couponclick" cname="特权礼包点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+			<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-div-ul-li-div-div-div:特权礼包大图;div-div-div-div-div-ul-li-div-div-div-div:特权礼包标题;div-div-div-div-div-ul-li-div-div-div-a:领取查看;div-div-div-div-span:复制;div-div-a:关闭浮层;div-div-div-div:使用说明;" from="20140815" to="-" />
+		</action>
+		<action id="page-card-tpl-youxi" ename="couponclicklink" cname="特权礼包外链" from="20140815" to="-" status="fe-done" type="func" flag="use">
+			<attr key="xpaths" type="norminal" desc="点击类型" value="div-div-div-div-a:立即使用;" from="20140815" to="-" />
+		</action>
+		<action id="page-card-tpl-youxi" ename="tabclick" cname="特权礼包tab点击" from="20140815" to="-" status="fe-done" type="func" flag="use">
+			<attr key="xpath" type="norminal" desc="点击类型" value="div2-div2-div-a:可领礼包;div2-div2-div-a2:我的特权;" from="20140815" to="-" />
+		</action>
+	</module>
+</module>

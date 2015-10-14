@@ -1,0 +1,171 @@
+.tongji-table {
+	width: 300px;
+	border-collapse: collapse;
+}
+
+.tongji-table th,.tongji-table td {
+	vertical-align: top;
+	font-size: 13px;
+	line-height: 150%;
+}
+
+.tongji-table-form td {
+	padding: 2px 0;
+	text-align: left;
+	font-size: 14px;
+}
+
+.tongji-table-form td:first-child {
+	padding-right: 10px;
+	text-align: right;
+	white-space: nowrap;
+}
+
+.tongji-table td.tongji-control {
+	text-align: left;
+}
+
+.tongji-label {
+	position: absolute;
+	top: 10px;
+	left: 1px;
+	padding: 2px;
+	border: 1px solid #c00;
+	background: #e8cbcb;
+	color: #000;
+	white-space: nowrap;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 12px;
+	cursor: pointer;
+	z-index: 100;
+}
+
+.tongji-label-hilight {
+	border: 1px solid #EE0000;
+	background: #FFFF00;
+	z-index: 2000;
+}
+
+.tongji-label:hover {
+	border: 1px solid #EE0000;
+	background: #FFFF00;
+	z-index: 1000;
+}
+
+.tongji-zindex {
+	z-index: 100;
+}
+
+.tongji-ele-hilight {
+	-webkit-mask: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));
+	background: #3c8ce7;
+}
+
+/*
+.tongji-ele-hilight-youxi {
+	-webkit-box-shadow:5px 5px 5px rgba(0,0,0,.6);
+	box-shadow:5px 5px 5px rgba(0,0,0,.6);
+}*/
+
+.container {
+	position: absolute;
+	background: #f8f8f8;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border: 1px solid #ddd;
+	padding: 3px;
+	width: 300px;
+	top: 32px;
+	left: 75%;
+}
+
+.sub_container {
+	position: absolute;
+	background: #f8f8f8;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border: 1px solid #ddd;
+	padding: 3px;
+	width: 310px;
+	top: 32px;
+	left: 3px;
+}
+
+.sub_button {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border: 1px solid #ccc;
+	background: #f6f6f6;
+	font-weight: bold;
+	color: #1c94c4;
+	left: 80%;
+	padding: 5px 10px;
+	font-size: 14px;
+	position: relative;}
+
+.titlebar {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	padding:8px;
+	border: 1px solid #B452CD;
+	background: #CDB5CD;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+	font-size: 15px;
+}
+
+.footer {
+	text-align: left;
+	background-image: none;
+	margin-top: .5em;
+	padding: .3em 1em .5em .4em;
+	border-top: 1px solid #ddd;
+	background: #eee;
+	color: #333;
+}
+
+.button {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border: 1px solid #ccc;
+	background: #f6f6f6;
+	font-weight: bold;
+	color: #1c94c4;
+	left: 60%;
+	padding: 5px 10px;
+	font-size: 14px;
+	position: relative;
+}
+
+a {
+	color:#3D3D3D;
+	text-decoration:underline;
+}
+
+.tongji-res-cont {
+	position: relative;
+	overflow-y: scroll;
+	max-height: 430px;
+	border: 1px solid #acceea;
+}
+
+.tongji-table-list th,.tongji-table-list td {
+	padding: 0px 2px;
+	border: 1px solid #acceea;
+	border-bottom: none;
+	border-left: none;
+	text-align: center;
+	white-space: nowrap;
+}
